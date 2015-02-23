@@ -267,12 +267,24 @@ fbs.processed=lapply(fbs.processed,function(x) {
   )
 })
 fbs.processed=do.call(rbind,fbs.processed)
-idx=match(fbs.processed$DependsOnCode,fbs.processed$IncludedInCode)
-fbs.processed$DependsOnName<-NA
-fbs.processed$DependsOnName[!is.na(idx)]=as.character(fbs.processed$IncludedInName[idx[!is.na(idx)]])
-idx=match(fbs.processed$ProcessedAppearsInCode,fbs.processed$IncludedInCode)
-fbs.processed$ProcessedAppearsInName<-NA
-fbs.processed$ProcessedAppearsInName[!is.na(idx)]=as.character(fbs.processed$IncludedInName[idx[!is.na(idx)]])
+
+fbs.processed$DependsOnName <- sapply(fbs.processed$DependsOnCode,function(codes){
+  codes=strsplit(codes,", ")[[1]]
+  if(length(codes)==0) return("")
+  idx=match(codes,fbs.processed$IncludedInCode)
+  stopifnot(all(!is.na(idx)))
+  names=fbs.processed$IncludedInName[idx]
+  return(paste(names,collapse="; "))
+})
+
+fbs.processed$ProcessedAppearsInName <- sapply(fbs.processed$ProcessedAppearsInCode,function(codes){
+  codes=strsplit(codes,", ")[[1]]
+  if(length(codes)==0) return("")
+  idx=match(codes,fbs.processed$IncludedInCode)
+  stopifnot(all(!is.na(idx)))
+  names=fbs.processed$IncludedInName[idx]
+  return(paste(names,collapse="; "))
+})
 
 View(fbs.processed)
 

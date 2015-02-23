@@ -21,8 +21,8 @@ Two sources are used:
 * FoodInclProcessed - TRUE if the Food element definitely includes commodities that are considered processed. FALSE if the Food element definitely doesn't. NA if there's not enough information.
 * DependsOnCode - Comma-separated codes for other FBS items on which this item depends, i.e. from which it is processed
 * ProcessedAppearsInCode - Comma-separated codes for other FBS items which are processed forms of this item
-* DependsOnName - Name corresponding to DependsOnCode if there's only one
-* ProcessedAppearsInName - Name corresponding to ProcessedAppearsInCode if there's only one
+* DependsOnName - Names corresponding to DependsOnCode
+* ProcessedAppearsInName - Names corresponding to ProcessedAppearsInCode
 
 It is worth noting:
 - If ProcessedAppearsInCode is not empty, then the Processing element is intended to appear elsewhere, and there is therefore a risk of double-counting.

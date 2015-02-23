@@ -1,0 +1,1377 @@
+"FAOSTATCODE";"COMMODITY";"DEFINITION";"DerivedCode"
+"0015";"WHEATTriticum spp.:
+common (T. aestivum)
+durum (T. durum)
+spelt (T. spelta)";"Common and durum wheat are the main types. Among common wheat, the
+main varieties are spring and winter, hard and soft, and red and
+white. At the national level, different varieties should be reported
+separately, reflecting their different uses. Used mainly for human
+food.";0
+"0016";"Flour of Wheat";"Defined broadly to include meal, groats and pellets. Strong flours
+from hard wheat are used for bread, while durum wheat flour is
+used primarily for pasta. Weaker flours from soft wheat are mainly
+used in cakes, pastries, biscuits and certain noodles.";15
+"0017";"Bran of Wheat";"See Chapter 11.";15
+"0018";"Macaroni";"Pasta made from semolina, or flour, that is mixed with water and
+kneaded into a dough. Other ingredients may be included as well. The
+dough is then shaped into various forms. This heading is limited to
+macaroni that is not cooked, stuffed or otherwise prepared.";15
+"0019";"Germ of Wheat";"The seed embryo. Whole or rolled germ is used for oil extraction by
+solvents. Flaked or ground germ is used in bakers' wares, dietetic
+preparations, feed supplements and in pharmaceutical preparations.";15
+"0020";"Bread";"A baked product of flour or meal of cereals, especially wheat.
+Includes ordinary, unleavened, crackers, rusks, etc.";15
+"0021";"Bulgur";"Whole wheat grains that are boiled, dried and cracked, either between
+stones or in a hand mill. Very popular in the Near East.";15
+"0022";"Pastry";"All baked products excluding those listed under bread. Pastry products
+may contain ingredients other than wheat flour, such as milk, eggs,
+sugar, honey, starch, fats, fruit, seeds, etc.";15
+"0023";"Starch of Wheat";"Starch is the carbohydrate component in many plant cells. A white,
+odourless powder that is insoluble in cold water, it forms a paste in
+hot water. Wheat starch is used for human consumption and animal feed,
+and is processed into glucose and dextrine for industrial use. It is
+usually obtained from low-quality flour.";15
+"0024";"Wheat Gluten";"A by-product of the industrial production of starch, wheat gluten is
+the preferred cereal gluten for food purposes. Uses include enriching
+protein in flours for bread, pasta, etc.";15
+"0026";"Wheat-Fermented Beverages";"See Chapter 15.";15
+"0027";"RICE PADDY
+Oryza spp., mainly oryza sativa";"Rice grain after threshing and winnowing.Also known as rice in the
+husk and rough rice. Used mainly for human food.";0
+"0028";"Rice, Husked";"Rice grain without hulls or husks. Also known as brown or cargo rice.";27
+"0029";"Rice, Milled (Husked)";"White rice milled from imported husked rice. Includes semi-milled,
+whole-milled and parboiled rice.";27
+"0031";"Rice, Milled";"White rice milled from locally grown paddy. Includes semi-milled,
+whole-milled and parboiled rice.";27
+"0032";"Rice, Broken";"Residues from the selection of whole-grain, milled rice.";27
+"0033";"Rice, Gluten";"A by-product of the industrial production of starch. Not suitable for
+food use.";27
+"0034";"Starch of Rice";"See 0023 Rice starch is usually obtained from
+broken rice. Use primarily in the photographic industry to prepare ""matt"" paper.";27
+"0035";"Bran of Rice";"See Chapter 11.";27
+"0036";"Oil of Rice";"See Chapter 6.";27
+"0037";"Cake of Rice Bran";"See Chapter 11.";27
+"0038";"Flour of Rice";"Produced by milling broken or milled rice. Finely ground rice flour is
+widely used in infant foods and in noodles.  It is not used in bread
+because it lacks the necessary gluten-forming protein.";27
+"0039";"Rice-Fermented Beverages";"See Chapter 15.";27
+"0044";"BARLEY
+Hordeum spp.: 
+two-row barley (H. disticum)
+six-row barley (H. hexasticum)
+four-row barley (H. vulgare)";"Tolerates poorer soils and lower temperatures better than does wheat.
+Varieties include with husk and without (naked). Used as a livestock
+feed, for malt and for preparing foods. The roasted grains are a
+coffee substitute.";0
+"0045";"Pot Barley";"Whole-seed barley with the husks, hulls and bran removed.";44
+"0046";"Barley, Pearled";"Small, round pellets obtained by the further milling of pot barley.
+This definition also includes kibbled, rolled or flaked grains.";44
+"0047";"Bran of Barley";"See Chapter 11.";44
+"0048";"Barley Flour and Grits";"Fine flour and course meal obtained as milling by-products of pearled
+barley.";44
+"0049";"Malt";"A grain - usually barley - that has been germinated through a soaking
+process and then dried. Malt is used in brewing and distilling, and as
+a nutrient additive. Includes whole, ground, flour, and roasted malt,
+but excludes extracts and preparations.";44
+"0050";"Malt Extract";"A concentrated solution from water-macerated malt, which is used in
+infant and dietetic foods and in bread baking.";44
+"0051";"Beer of Barley";"See Chapter 15.";44
+"0056";"MAIZE
+Zea mays
+Corn, Indian corn, mealies";"A grain with a high germ content. At the national level, hybrid and
+ordinary maize should be reported separately owing to widely different
+yields and uses. Used largely for animal feed and commercial starch
+production.";0
+"0057";"Germ of Maize";"The seed embryo that is separated during processing and is valued
+mainly for its oil.";56
+"0058";"Flour of Maize";"Broadly defined to include meal, groats and pellets.";56
+"0059";"Bran of Maize";"See Chapter 11.";56
+"0060";"Oil of Maize";"See Chapter 6.";56
+"0061";"Cake of Maize";"See Chapter 11.";56
+"0063";"Maize Gluten";"Maize protein is often called gluten, although it lacks the quality
+characteristics of wheat gluten. It is separated from maize during
+commercial wet milling and used to enrich animal feeds.";56
+"0064";"Starch of Maize";"See 0023.
+The primary product of the large- scale industrial
+wet-milling process. Used mainly for the production of glucose,
+dextrin and alcohol.";56
+"0066";"Beer of Maize";"See Chapter 15.";56
+"0067";"WHITE MAIZE";"Although separate data are reported for white maize production owing
+to its regional importance, its production is also included in 0056.";56
+"0068";"POPCORN
+Zea mays var. everta";"A variety of maize that is eaten after the kernels have been heated
+and have ""popped"".";0
+"0071";"RYE
+Secale cereale";"A grain that is tolerant of poor soils, high latitudes and altitudes.
+Mainly used in making bread, whisky and beer. When fed to livestock,
+it is generally mixed with other grains.";0
+"0072";"Flour of Rye";"Broadly defined to include meal, groats and pellets. In northern
+countries, rye flour is used primarily in bread.";71
+"0073";"Bran of Rye";"See Chapter 11.";71
+"0075";"OATS
+Avena spp., mainly  Avena sativa";"A plant with open, spreading panicle-bearing large spikelets. Used
+primarily in breakfast foods. Makes excellent fodder for horses.";0
+"0076";"Oats, Rolled";"Obtained by crushing or rolling the whole or broken grain; includes
+grains flaked, hulled or otherwise worked for human consumption.";75
+"0077";"Bran of Oats";"See Chapter 11.";75
+"0079";"MILLETS
+Including inter alia:
+barnyard or Japanese millet (Echinocloa frumentacea);
+ragi, finger or African millet (Eleusine coracana);
+teff (Eragrostis abyssinica);
+common, golden or proso millet (Panicum miliaceum);
+koda or ditch millet (Paspalum scrobiculatum);
+pearl or cattail millet (Pennisetum glaucum);
+foxtail millet (Setaria italica)";"Small-grained cereals that include a large number of different
+botanical species. Originated by the domestication of wild African
+grasses in the Nile valley and the Sahel zone, millets were
+subsequently taken to China and India. These cereals tolerate arid
+conditions and possess a small, highly nutritious grain that stores
+well. Used locally, both as a food and as a livestock feed. In all
+areas where they are cultivated, millets are used in traditional beer
+brewing. Also used as a feed for birds.";0
+"0080";"Flour of Millet";"Broadly defined to include meal, groats and pellets.";79
+"0081";"Bran of Millet";"See Chapter 11.";79
+"0082";"Beer of Millet";"See Chapter 15.";79
+"0083";"SORGHUM
+Sorghum spp.:
+guinea corn (S. guineense);
+common, milo, feterita, kaffir
+corn (S. vulgare);
+durra, jowar, kaoliang (S. dura)";"A cereal that has both food and feed uses. Sorghum is a major food
+grain in most of Africa, where it is also used in traditional beer
+brewing. It is desirable to report hybrid and other varieties
+separately.";0
+"0084";"Flour of Sorghum";"Broadly defined to include meal, groats and pellets.";83
+"0085";"Bran of Sorghum";"See Chapter 11.";83
+"0086";"Beer of Sorghum";"See Chapter 15.";83
+"0089";"BUCKWHEAT
+Fagopyrum esculentum
+(Polygonaceae)";"A minor cereal cultivated primarily in northern regions. Buckwheat is
+considered a cereal, although it does not belong to the gramineous
+family.";0
+"0090";"Flour of Buckwheat";"Broadly defined to include meal, groats and pellets. The flour is
+normally used in bread and crackers, and is also mixed with wheat
+flour. Meal and groats are normally used for soups.";89
+"0091";"Bran of Buckwheat";"See Chapter 11.";89
+"0092";"QUINOA
+Chenopodium quinoa
+(Chenopodiaceae)";"A minor cereal, which tolerates high altitudes, quinoa is cultivated
+primarily in Andean countries. Used for food and to make chicha, a
+fermented beverage.";0
+"0094";"FONIO
+Digitaria spp.:
+fonio or findi (D. exilis);
+black fonio or hungry rice
+(D. iburua)";"A minor cereal of importance only in West Africa where it is eaten in
+place of rice during famines. The seeds are cooked by steaming the
+whole grain.";0
+"0095";"Flour of Fonio";"Broadly defined to include meal, groats and pellets.";94
+"0096";"Bran of Fonio";"See Chapter 11.";94
+"0097";"TRITICALE";"A minor cereal that is a cross between wheat and rye, combining the
+quality and yield of wheat with the hardiness of rye.";0
+"0098";"Flour of Triticale";"Broadly defined to include meal, groats and pellets.";97
+"0099";"Bran of Triticale";"See Chapter 11.";97
+"0101";"CANARY SEED
+Phalaris canariensis";"Minor cereal normally used as bird feed.";0
+"0103";"MIXED GRAIN";"A mixture of cereal species that are sown and harvested together.  The
+mixture wheat/rye is known as meslin, but in trade is usually
+classified with wheat.";0
+"0104";"Flour of Mixed Grain";"Broadly defined to include meal, groats and pellets.";103
+"0105";"Bran of Mixed Grain";"See Chapter 11.";103
+"0108";"CEREALS NES
+Including inter alia:
+canagua or coaihua
+(Chenopodium pallidicaule);
+quihuicha or Inca wheat
+(Amaranthus caudatus);
+adlay or Job's tears
+(Coix lacryma-jobi);
+wild rice (Zizania aquatica)";"Other cereal crops that are not identified separately because of their
+minor relevance at the international level. Because of their limited
+local importance, some countries report cereals under this commodity
+heading that are classified individually by FAO.";0
+"0111";"Flour of Cereals nes";"Broadly defined to include meal, groats and pellets.";108
+"0112";"Bran of Cereals nes";"See Chapter 11.";108
+"0109";"Infant Food";"Preparations for infant consumption, usually containing some
+non-cereal ingredients.";108
+"0110";"Wafers";"Communion wafers, empty cachets for pharmaceutical use and sealing
+wafers.";108
+"0041";"Breakfast Cereals";"Foods prepared by swelling and roasting cereals or cereal products,
+e.g. corn flakes, puffed rice; cereals o/t maize, in grain form,
+precooked or otherwise prepared.";108
+"0113";"Cereal Preparations";"Cereal grains, excluding barley and oats, that are either rolled,
+flaked, pearled, sliced or kibbled.";108
+"0114";"Mixes and Doughs";"Used in the preparation of bakers' wares.";108
+"0115";"Food Preparations of Flour, Meal or Malt Extract";"Food preparations of flour, meal, starch or malt extracts, that either
+do not contain, or contain less than 50%, cocoa powder. Also, food
+preparations of milk that either do not contain, or contain less than
+10%, cocoa powder.";108
+"0155";"Maltose, Chemically Pure";"See Chapter 3.";108
+"0166";"Other Fructose and Syrup";"See Chapter 3.";108
+"0172";"Glucose and Dextrose";"See Chapter 3.";108
+"0175";"Isoglucose";"See Chapter 3.";108
+"0635";"Straw and Husks";"See Chapter 11.";108
+"0846";"Gluten Feed and Meal";"See Chapter 11.";108
+"0116";"POTATOES
+Solanum tuberosum
+Irish potato";"A seasonal crop grown in temperate zones all over the world, but
+primarily in the northern hemisphere.";0
+"0117";"Flour of Potatoes";"Produced from tubers that have been peeled, dried and milled. Includes
+flour, meal, flakes, granules and pellets.";116
+"0118";"Frozen Potatoes";"Peeled potatoes that are either cooked or uncooked, sliced or
+unsliced, and then frozen.";116
+"0119";"Starch of Potatoes";"A carbohydrate found in many plant cells. A white odourless powder
+that is insoluble in cold water, but forms a paste in hot water. Has
+wide food and non-food uses.";116
+"0120";"Potato Offals";"See Chapter 11.";116
+"0121";"Tapioca of Potatoes";"A product obtained by heating potato starch mixed with water. Tapioca
+may be in the form of flakes, grains, pearls, siftings, seeds or other
+similar forms. Used in the preparation of soups and puddings or in
+foods for invalids.";116
+"0122";"SWEET POTATOES
+Ipomoea batatas";"A seasonal crop grown in tropical and subtropical regions. Used mainly
+for human food. Trade data cover fresh and dried tubers, whether or
+not sliced or in the form or pellets.";0
+"0125";"CASSAVA
+Manioc, mandioca, yuca  (Manihot esculenta, syn. M. utilissima);
+yuca dulce (M. palmata, syn. M. dulcis)";"A semi-permanent crop grown in tropical and subtropical regions.
+Sometimes bitter and sweet cassavas are referred to as separate
+species, the former being M. esculenta and the latter M. palmata, but
+this is incorrect since the toxicity varies according to location.
+Cassava is the staple food in many tropical countries. It is not
+traded internationally in its fresh state because tubers deteriorate
+very rapidly.";0
+"0126";"Flour of Cassava";"A product of tubers that have been peeled, dried and milled; mainly
+for human consumption. Includes flour, meal and flakes.";125
+"0127";"Tapioca of Cassava";"See 0121.
+Obtained from cassava starch and used in the preparation of
+puddings and in infant foods.";125
+"0128";"Cassava, Dried";"Includes peeled, sliced and sun-dried (cassava chips), as well as
+ground and compressed cassava (pellets). Used mainly as livestock
+feed.";125
+"0129";"Starch of Cassava";"See 0119.
+The principal industrial outlet for cassava. Cassava starch
+is used in the foodstuffs, textile and paper industries for the
+manufacture of plywood and veneer, adhesives, glucose and dextrine.";125
+"0135";"YAUTIA (COCOYAM)
+Xanthosoma spp.;
+malanga, new cocoyam, ocumo, tannia (X. sagittifolium)";"Several plants are included in this group, some with edible tubers and
+others with edible stems (also called aroids). Yautia is grown mainly
+in the Caribbean and is used for food. Trade data cover both fresh and
+dried yautia.";0
+"0136";"TARO (COCOYAM)
+Dasheen, eddoe, taro, old cocoyam(Colocasia esculenta)";"Aroids cultivated for their edible starchy corms or underground stems.
+Taro is grown throughout the tropics for food. Trade data cover both
+fresh and dried taro.";0
+"0137";"YAMS
+Dioscorea spp.";"The principal edible yams are widely grown throughout the tropics. A
+starchy staple foodstuff, normally eaten as a vegetable, boiled, baked
+or fried. In West Africa they are consumed mainly as ""fufu"", a stiff
+glutinous dough. Trade data cover both fresh and dried yams.";0
+"0149";"ROOTS AND TUBERS NES
+Including inter alia: arracacha (Arracacoa xanthorrhiza);
+arrowroot (Maranta arundinacea);
+chufa (Cyperus esculentus);
+sago palm (Metroxylon spp.);
+oca and ullucu (Oxalis tuberosa and Ullucus tuberosus);
+yam bean, jicama  (Pachyrxhizus erosus, P. angulatus);
+mashua (Tropaeolum tuberosum);
+Jerusalem artichoke, topinambur (Helianthus tuberosus)";"Other tubers, roots or rhizomes, fresh, that are not identified
+separately because of their minor relevance at the international
+level. Because of their limited local importance, some countries
+report roots and tubers under this commodity heading that are
+classified individually by FAO.";0
+"0150";"Flour of Roots and Tubers nes";"Flour and meal produced from roots and tubers o/t potatoes and
+cassava.";149
+"0151";"Roots and Tubers, Dried nes";"Other tubers, roots or rizhomes, dried, o/t potatoes and cassava.";149
+"0156";"SUGAR CANE
+Saccharum officinarum";"In some producing countries, marginal quantities of sugar cane are
+consumed, either directly as food or in the form of juice.";0
+"0158";"Cane Sugar";"A non-refined, crystallized material derived from the juices of
+sugar-cane stalk and consisting either wholly or essentially of
+sucrose.";156
+"0159";"Beet Sugar";"A non-refined, crystallized material derived from the juices extracted
+from the root of the sugar beet and consisting either wholly or
+essentially of sucrose.";156
+"0162";"Sugar, Raw Centrifugal";"The sum of codes 0158 and 0159. Processed further to obtain refined
+sugar.";156
+"0164";"Sugar, Refined";"Production covers domestic production, plus or minus imports and/or
+exports of raw centrifugal sugar in terms of refined sugar.";156
+"0163";"Sugar, Non-Centrifugal";"Generally derived from sugar cane through traditional methods without
+centrifugation.";156
+"0165";"Molasses";"A by-product of the extraction or refining of beet or cane sugar or of
+the production of fructose from maize. Used for feed, food, industrial
+alcohol, alcoholic beverages and ethanol.";156
+"0169";"Beet Pulp";"See Chapter 11.";156
+"0170";"Bagasse";"See Chapter 11.";156
+"0629";"Beet Tops";"See Chapter 11.";156
+"0630";"Cane Tops";"See Chapter 11.";156
+"0157";"SUGAR BEET
+Beta vulgaris var. altissima";"In some producing countries, marginal quantities are consumed, either
+directly as food or in the preparation of jams.";0
+"0158";"Cane Sugar";"A non-refined, crystallized material derived from the juices of
+sugar-cane stalk and consisting either wholly or essentially of
+sucrose.";157
+"0159";"Beet Sugar";"A non-refined, crystallized material derived from the juices extracted
+from the root of the sugar beet and consisting either wholly or
+essentially of sucrose.";157
+"0162";"Sugar, Raw Centrifugal";"The sum of codes 0158 and 0159.
+Processed further to obtain refined sugar.";157
+"0164";"Sugar, Refined";"Production covers domestic production, plus or minus imports and/or
+exports of raw centrifugal sugar in terms of refined sugar.";157
+"0163";"Sugar, Non-Centrifugal";"Generally derived from sugar cane through traditional methods without
+centrifugation.";157
+"0165";"Molasses";"A by-product of the extraction or refining of beet or cane sugar or of
+the production of fructose from maize. Used for feed, food, industrial
+alcohol, alcoholic beverages and ethanol.";157
+"0169";"Beet Pulp";"See Chapter 11.";157
+"0170";"Bagasse";"See Chapter 11.";157
+"0629";"Beet Tops";"See Chapter 11.";157
+"0630";"Cane Tops";"See Chapter 11.";157
+"0161";"SUGAR CROPS NES
+Including inter alia:
+sugar maple (Acer saccharum);
+sweet sorghum (Sorghum saccharatum);
+sugar palm (Arenga saccharifera)";"Includes minor sugar crops of local importance. In the case of saps,
+production is to be expressed in liquid equivalent.";0
+"0160";"Maple Sugar and Syrups";"Maple syrup is produced by atmospheric boiling of maple sap in an
+open-pan evaporator. Continuing the evaporation process until the
+syrup crystalizes yields maple sugar.";161
+"0167";"Sugar and Syrups nes";"Includes invert sugar, caramel, golden syrup, artificial honey,
+maltose other than chemically pure, sorghum and palm sugars. See also
+the general note in the introduction.";161
+"0155";"Maltose, Chemically Pure";"Produced industrially from starch by hydrolysis with malt diastase.
+Used in the brewing industry.";161
+"0172";"Glucose and Dextrose";"Glucose is a monosaccharide produced by hydrolysing starch with acids
+and/or enzymes.  Dextrose is chemically pure glucose. Used in the food
+industry, in brewing, in tobacco fermentation and in pharmaceutical
+products.";161
+"0175";"Isoglucose";"Also known as HFCS (high-fructose corn syrup), HFSS (high-fructose
+starch syrup), HFGS (high-fructose glucose syrup). Isoglucose is a new
+type of starch syrup where glucose has been isomerized to fructose by
+using one or more isomerizing enzymes. Most important of the
+sweeteners manufactured from maize starch. Widely used in the
+production of food and soft drinks.";161
+"0154";"Fructose, Chemically Pure";"Or levulose, monosaccharide, present with glucose in sweet fruits and
+honey.";161
+"0166";"Other Fructose and Syrup";"Monosaccharide found in fruits and honey, commercially produced from
+glucose, sucrose or by hydrolysis of inulin (polysaccharide found
+mainly in the tubers of the dahlia and the Jerusalem artichoke).
+Especially suitable for use by diabetics.";161
+"0168";"Sugar Confectionery";"Sugar confectionery, including chewing gum, that does not contain
+cocoa. Includes white chocolate.";161
+"0173";"Lactose";"Also known as milk sugar. Produced commercially from whey.";161
+"1182";"HONEY";"Honey produced by bees (Apis mellifera) or by other insects.";0
+"0174";"Artificial Sweeteners";"High-intensity or low-caloric sweetening agents that are produced
+chemically.";1182
+"0236";"SOYBEANS
+Glycine soja";"The most important oil crop. Also widely consumed as a bean and in the
+form of various derived products because of its high protein content,
+e.g. soya milk, meat, etc.";0
+"0237";"Oil of Soybeans";"See Chapter 11.";236
+"0239";"Soya Sauce";"A fermented soya product from defatted soybeand and wheat or other
+cereals that is filtered and pasteurized.";236
+"0240";"Soya Paste";"A fermented, salty condiment. Soya paste can be produced through brine
+fermentation of low- moisture soya curd.";236
+"0241";"Soya Curd";"Obtained by precipitating proteins from soya milk and removing the
+fluid. Can be fermented or non-fermented.";236
+"0242";"GROUNDNUTS IN SHELL
+Arachis hypogaea";"For trade data, groundnuts in shell are converted at 70% and reported
+on a shelled basis.";0
+"0243";"Groundnuts, Shelled";"Used as direct food and for extracting oil.";242
+"0244";"Oil of Groundnuts";"See Chapter 11.";242
+"0246";"Prepared Groundnuts";"Roasted, salted, flavoured, etc.";242
+"0247";"Peanut Butter";"Obtained by grinding roasted peanuts. In addition to fat, at 40-46%,
+peanut butter contains all other components of the nuts.";242
+"0249";"COCONUTS
+Cocos nucifera
+Husked coconut";"In shell, covered by the endocarp, while exocarp (the smooth outer
+skin) and mesocarp (the fibrous covering) are removed. Immature nuts
+contain a milky juice that is consumed as a refreshing drink. Mature
+nuts are consumed as such, or processed for copra or desiccated
+coconut. The flesh, from which copra/oil is extracted, constitutes
+40-70% of the weight of the husked coconut. The oil content is about
+36% of the flesh.";0
+"0250";"Coconuts, Desiccated";"Dried, shredded flesh of coconut processed for human consumption. It
+retains most of the oil and proteins of the fresh nut and is mainly
+used in confectionery and baking.";249
+"0251";"Copra";"The dried flesh of coconut from which the oil is extracted.";249
+"0252";"Oil of Coconut";"See Chapter 11.";249
+"0254";"[OIL PALM FRUIT]
+Elaeis guineensis";"The oil palm produces bunches containing a large number of fruits with
+the fleshy mesocarp enclosing a kernel that is covered by a very hard
+shell. FAO considers palm oil (coming from the pulp) and palm kernels
+to be primary products. The oil extraction rate from a bunch varies
+from 17 to 27% for palm oil, and from 4 to 10% for palm kernels.";0
+"0256";"PALM KERNELS";"Seeds of the oil palm. Babassu kernels (Orbignya speciosa) are often
+reported as palm kernels.";254
+"0257";"OIL OF PALM";"See Chapter 14.";254
+"0259";"Cake of Palm Kernel";"Â";254
+"0260";"OLIVES Olea europaea";"Includes table olives and olives for oil.";0
+"0261";"Oil of Olives, Virgin";"See Chapter 11.";260
+"0274";"Oil of Olive Residues";"Â";260
+"0263";"KARITE NUTS (SHEANUTS) Butyrospermum parkii";"Production data refer only to the nut contained in the fruit although
+        the pulp around the nut is also edible.";0
+"0264";"Butter of Karite Nuts";"";263
+"0265";"CASTOR BEANS Ricinus communis";"Valued mainly for their oil, which is used in pharmaceutical products.
+        Ground seedcakes are used as fertilizers (castor oil pomace).";0
+"0266";"Oil of Castor Beans";"See Chapter 14.";265
+"0267";"SUNFLOWER SEED Helianthus annuus";"Valued mainly for its oil. Minor uses include as a human food and as
+        feed for birds.";0
+"0268";"Oil of Sunflower Seed";"See Chapter 11.";267
+"0270";"RAPESEED Brassica napus var. oleifera";"Valued mainly for its oil. Older varieties are rich in Erucic acid,
+        which is considered unhealthy.";0
+"0271";"Oil of Rapeseed Canola oil";"See Chapter 11.";270
+"0275";"TUNG NUTS Aleurites cordata; A. fordii";"Valued mainly for their oil.";0
+"0276";"Oil of Tung Nuts";"Â";275
+"0277";"JOJOBA SEEDS Simmondsia californica (syn. S. chinensis)";"From the shrub or small tree of the Buxaceae family.";0
+"0278";"Jojoba Oil";"Â©Â FAO 1994
+          Return to top";277
+"0280";"SAFFLOWER SEED Carthamus tinctorius";"Valued mainly for its oil. Minor uses include as a human food and as
+        poultry feed.";0
+"0281";"Oil of Safflower Seed";"See Chapter 11.";280
+"0289";"SESAME SEED Sesamum indicum";"Valued for its oil, but also as a food, either raw or roasted, as well
+        as in bakery products and other food preparations.";0
+"0290";"Oil of Sesame Seed";"See Chapter 11.";289
+"0292";"MUSTARD SEED white mustard (Brassica alba; B. hirta; Sinapis alba); black mustard (Brassica nigra; Sinapis nigra)";"In addition to the oil extracted from them, white mustard seeds, may
+        be processed into flour for food use. Black mustard seeds also yield
+        oil and are processed into flour that is used mainly in pharmaceutical
+        products.";0
+"0293";"Oil of Mustard Seed";"See Chapter 11.";292
+"0295";"Flour of Mustard Seed";"Includes flour, meal and prepared mustard.";292
+"0296";"POPPY SEED Papaver somniferum";"The source of opium, poppy seeds are also used in baking and
+        confectionery.";0
+"0297";"Oil of Poppy Seed";"See Chapter 11.";296
+"0305";"[TALLOWTREE SEEDS] Borneo tallow tree (Shorea aptera; S. stenocarpa); Chinese tallow tree (Sapium sebiferum; Stillingia sebifera)";"Grown wild and cultivated. FAO considers vegetable tallow and
+        stillingia oil to be primary products (see below).";0
+"0306";"VEGETABLE TALLOW";"See Chapter 14.";305
+"0299";"MELONSEED Cucumis melo";"Includes seeds of other Cucurbitaceae.";0
+"0310";"[KAPOK FRUIT] Ceiba pentandra, Bombacaceae";"The fruit of kapok contains fibre (see Chapter 14.";0
+"0314";"Cake of Kapok";"See Chapter 
+        
+          Â";310
+"0328";"[SEED COTTON] Gossypium spp.: Unginned cotton";"Grown for both seed and for fibre. FAO considers cottonseed, cotton
+        lint and linters to be primary products. Lint content ranges from 30
+        to 40%, seed 55 to 65%, and linters 2 to 5% though they are not always
+        separated.";0
+"0329";"COTTONSEED";"Used for extracting oil.";328
+"0331";"Oil of Cottonseed";"See Chapter 11.";328
+"0333";"LINSEED Linum usitatissimum Flaxseed";"An annual herbaceous that is cultivated for its fibre as well as its
+        oil.";0
+"0334";"Oil of Linseed";"See Chapter 11.";333
+"0336";"HEMPSEED Cannabis sativa";"An annual herbaceous that is cultivated for its fibre as well as its
+        oil. In major producing countries oil is extracted from the seeds.";0
+"0337";"Oil of Hempseed";"See Chapter 11.";336
+"0339";"OILSEEDS NES Includes inter alia: beech nut (Fagus sylvatica);(Aleurites 
+        moluccana);(Carapa guineensis);(Croton tiglium);(Bassia 
+        latifolia);(Guizotia abyssinica);(Licania rigida);(Perilla 
+        frutescens);(Jatropha curcas);(Shorea robusta);(Pongamia 
+        glabra);(Astrocaryum spp.)";"Other oilseeds, oleaginous fruits and nuts that are not identified
+        separately because of their minor relevance at the international
+        level. Because of their limited local importance, some countries
+        report commodities under this heading that are classified individually
+        by FAO. Also included under this code are tea seeds, grape pips and
+        tomato seeds from which oil is extracted.";0
+"0340";"Oil of Vegetable Origin nes";"See Chapter 11.";339
+"0343";"Flour of Oilseeds";"Flours and meals of oilseeds and oleaginous fruits (excluding
+        mustard), non defatted or partially defatted.";339
+"0036";"Oil of Rice Bran";"See Chapter 14.";339
+"1241";"Liquid Margarine";"See Chapter 14.";339
+"1274";"Oils Boiled, Dehydrated, etc";"See Chapter 14.";339
+"0216";"BRAZIL NUTS
+Brazil, Para or cream nut (Bertholletia excelsa)";"Â";0
+"0229";"Brazil Nuts, Shelled";"Around 55% of the weight in shell.";216
+"0217";"CASHEW NUTS
+Anacardium occidentale";"Produced mainly in East Africa, India and Brazil.";0
+"0230";"Cashew Nuts, Shelled";"Around 25% of the weight in shell.";217
+"0220";"CHESTNUTS
+Castanea spp.: C. vesca; C. vulgaris; C. sativa";"Produced mainly in Europe and Asia.";0
+"0221";"ALMONDS
+Prunus amygdalus; P. communis; Amygdalus communis";"Produced mainly in Mediterranean countries, the United States and
+Asia.";0
+"0231";"Almonds, Shelled";"Around 55% of the weight in shell.";221
+"0222";"WALNUTS
+Jugland spp.: J. regia";"Produced in temperate zones of the Northern Hemisphere, particularly
+in the United States.";0
+"0232";"Walnuts, Shelled";"Around 53% of the weight in shell.";222
+"0223";"PISTACHIOS
+Pistacia vera";"Produced mainly in the Near East and the United States.";0
+"0224";"KOLA NUTS
+kola, cola, Sudan cola nut  (Cola nitida; C. vera; C. acuminata)";"Produced mainly in Africa. Kola nuts, containing 2.4 to 2.6% caffeine,
+are commonly chewed by the local population. Much used in Europe and
+America in the production of beverages.";0
+"0225";"HAZELNUTS (FILBERTS)
+Corylus avellana";"Produced mainly in Mediterranean countries and the United States.";0
+"0233";"Hazelnuts, Shelled";"Around 50% of the weight in shell.";225
+"0226";"ARECA NUTS
+areca, betel nut (Areca catechu)";"Produced mainly in the Far East. Areca nuts are used mainly as
+masticatory. These nuts contain alkaloids (arecoline and arecaidine).";0
+"0234";"NUTS NES
+Including inter alia: pecan nut (Carya illinoensis);
+butter or swarri nut  (Caryocar nuciferum);
+pili nut, Java almond, Chinese olives (Canarium spp.);
+paradise or sapucaia nut (Lecythis zabucajo);
+Queensland, macadamia nut (Macadamia ternifolia);
+pignolia nut (Pinus pinea)";"Other nuts that are not identified separately because of their minor
+relevance at the international level. Because of their limited local
+importance, some countries report nuts under this heading that are
+classified individually by FAO.";0
+"0235";"Prepared Nuts";"Mainly roasted, whether or not containing vegetable oils, salt,
+flavours, spices or other additives. Excludes prepared groundnuts,
+except when mixed with other nuts.";234
+"0358";"CABBAGES
+Chinese, mustard cabbage, pak-choi (Brassica chinensis);
+white, red, savoy cabbage, Brussels sprouts, collards, kale and
+kohlrabi (Brassica oleracea all var. except botrytis)";"Â";0
+"0366";"ARTICHOKES
+Cynara scolymus";"Â";0
+"0367";"ASPARAGUS
+Asparagus officinalis";"Â";0
+"0372";"LETTUCE
+Lactuca sativa;
+witloof chicory (Cichorium intybus var. foliosum);
+endive (C. endivia var. crispa);
+escarole chicory (C. endivia var. latifolia)";"Â";0
+"0373";"SPINACH
+Spinacia oleracea";"Trade figures may include New Zealand spinach (Tetragonia espansa) and
+orache (garden) spinach (Atriplex hortensis).";0
+"0378";"CASSAVA LEAVES
+Manihot esculenta;  M. utilissima";"Young cassava leaves are eaten in some areas of Africa as a vegetable.";0
+"0388";"TOMATOES, FRESH
+Lycopersicon esculentum";"Â";0
+"0390";"Juice of Tomatoes";"Juice is obtained by treating tomatoes with cold or hot water or with
+steam. The juice then undergoes various processes, such as
+clarification, homogenization, sterilization, etc.";388
+"0391";"Paste of Tomatoes";"Tomatoes prepared or preserved o/t by vinegar, in the form of paste,
+purÂ‚e or concentrate. Includes juice of dry weight content of 7% or
+more.";388
+"0392";"Tomatoes, Peeled";"Prepared or preserved o/t by vinegar; either whole or in pieces.";388
+"0393";"CAULIFLOWER
+Brassica oleracea var. botrytis,
+subvariety cauliflora and cymosa";"Includes headed broccoli.";0
+"0394";"PUMPKINS, SQUASH, GOURDS
+Cucurbita spp";"Includes marrows.";0
+"0397";"CUCUMBERS, GHERKINS
+Cucumis sativus";"Â";0
+"0399";"EGGPLANTS
+Solanum melongena";"Also called aubergines.";0
+"0401";"CHILLIES, PEPPERS (GREEN)
+Capsicum annuum; C. fructescens;
+Pimenta officinalis";"Production data exclude crops cultivated explicitly as spices. In
+contrast, trade data include these crops, provided they are fresh,
+uncrushed and unground.";0
+"0402";"ONIONS, SHALLOTS (GREEN)
+shallots (Allium ascalonicum);
+onions (A. cepa);
+welsh onions (A. fistulosum)";"Young onions pulled before the bulb has enlarged; used especially in
+salads. Includes onion sets.";0
+"0403";"ONIONS, DRY
+Allium cepa";"Includes onions at a mature stage, but not dehydrated onions.";0
+"0406";"GARLIC
+Allium sativum";"Â";0
+"0407";"LEEKS AND OTHER ALLIACEOUS VEGETAB
+leeks (Allium porrum);
+chives (A. schoenoprasum);
+other alliac. (Allium varieties except those of 0402, 0403 and 0406)";"Â";0
+"0414";"BEANS, GREEN
+Phaseolus and Vigna spp.";"For shelling.";0
+"0417";"PEAS, GREEN
+Pisum sativum";"Mostly for shelling, but including edible- podded peas or sugar peas.";0
+"0420";"BROAD BEANS, GREEN
+Vicia faba";"For shelling.";0
+"0423";"STRING BEANS
+Phaseolus vulgaris; Vigna spp";"Not for shelling";0
+"0426";"CARROTS
+Daucus carota";"Trade data may include turnips (Brassica rapa var. rapifera).";0
+"0430";"OKRA
+Abelmoschus esculentus; Hibiscus
+esculentus";"Also called gombo.";0
+"0446";"GREEN CORN (MAIZE)
+Zea mays, particularly var. saccharata";"Maize harvested green for food. Saccharata variety is commonly known
+as sweet corn.";0
+"0447";"Sweet Corn, Frozen";"Either uncooked, or cooked by steaming or boiling in water, and then
+frozen.";446
+"0448";"Sweet Corn, Prepared or Preserved";"Prepared or preserved other than by vinegar or acetic acid; not
+frozen.";446
+"0449";"MUSHROOMS
+Including inter alia:
+Boletus edulis; Agaricus campestris;
+Morchella spp. and Tuber magnatum";"Cultivated or spontaneous. Includes truffles.";0
+"0450";"Dried Mushrooms";"Mushrooms and truffles, whether dried, dehydrated, evaporated or
+freeze-dried.";449
+"0451";"Canned Mushrooms";"Mushrooms and truffles, prepared or preserved o/t by vinegar or acetic
+acid; either whole, in pieces, or homogenized.";449
+"0567";"WATERMELONS
+Citrullus vulgaris";"";0
+"0568";"MELONS, CANTALOUPES
+Cucumis melo";"";0
+"0463";"VEGETABLES, FRESH NES>
+Including inter alia:
+bamboo shoots (Bambusa spp.);
+beets, chards (Beta vulgaris);
+capers (Capparis spinosa);
+cardoons (Cynara cardunculus);
+celery (Apium graveolens);
+chervil (Anthriscus cerefolium);
+cress (Lepidium sativum);
+fennel (Foeniculum vulgare);
+horseradish (Cochlearia armoracia);
+marjoram, sweet (Majorana hortensis);
+oyster plant (Tragopogon porrifolius);
+parsley (Petroselinum crispum);
+parsnips (Pastinaca sativa);
+radish (Raphanus sativus);
+rhubarb (Rheum spp.);
+rutabagas, swedes (Brassica napus);
+savory (Satureja hortensis);
+scorzonera (Scorzonera hispanica);
+sorrel (Rumex acetosa);
+soybean sprouts tarragon (Artemisia dracunculus);
+watercress (Nasturtium officinale)";"Other vegetables that are not identified separately because of their
+minor relevance at the international level. Because of their limited
+local importance, some countries report vegetables under this heading
+that are classified individually by FAO.";0
+"0466";"Juice of Vegetables nes";"Juice obtained by pressing, or by treatment with water or with steam,
+then submitted to various processes. Vegetable juice may contain added
+salt, spices or flavouring substances.";463
+"0469";"Vegetables, Dehydrated";"Vegetables that are dried, dehydrated, evaporated or freeze-dried.
+Includes dried vegetables that are broken or powdered.";463
+"0471";"Vegetables in Vinegar";"Vegetables, fruit, nuts and other edible parts of plants, prepared or
+preserved with vinegar or acetic acid, with or without added sugar,
+salt, spices, etc. Includes pickles.";463
+"0472";"Vegetables, Preserved nes";"Vegetables prepared or preserved o/t by vinegar and which have not
+been frozen.";463
+"0473";"Vegetables, Frozen";"Vegetables, either uncooked, or cooked by steaming or boiling in
+water, and then frozen.";463
+"0474";"Vegetables, Temporarily preserved";"Vegetables preserved with SO2, brine, etc., but which are unsuitable
+for consumption in that state.";463
+"0475";"Vegetables, Preserved (Frozen)";"Vegetables that are prepared or preserved o/t by vinegar, and then
+frozen.";463
+"0476";"Homogenized Vegetable";"Preparations
+Vegetables prepared for dietetic and infant food.";463
+"0486";"BANANAS
+Musa sapientum; M. cavendishii; M. nana";"Bananas are normally eaten raw. Trade figures may include dried
+bananas. Data should be reported excluding the weight of the central
+stalk.";0
+"0489";"PLANTAINS
+Musa paradisiaca";"Generally known as a cooking banana. Data should be reported excluding
+the weight of the central stalk";0
+"0490";"ORANGES
+common, sweet orange (Citrus sinensis);
+bitter orange (C. aurantium)";"Bitter oranges are used primarily in the preparation of marmalade.";0
+"0491";"Juice of Orange";"Juice is obtained by mechanical extractors, or by pressing, and is
+then submitted to various processes. Unfermented, it may or may not be
+frozen. For direct consumption.";490
+"0492";"Orange Juice, Concentrated";"Juice that is obtained by a concentration process in which the water
+is physically removed from the juice until it has not less than 20% of
+solids by weight. It is then reconstituted with water before
+consumption. Unfermented, it may or may not be frozen.";490
+"0495";"TANGERINES, MANDARINS,
+CLEMENTINES, SATSUMAS
+mandarin, tangerine (Citrus reticulata);
+clementine, satsuma (C. unshiu)";"";0
+"0496";"Juice of Tangerine";"See 0491.";495
+"0497";"LEMONS AND LIMES
+lemon (Citrus limon);
+sour lime (C. aurantifolia);
+sweet lime (C. limetta)";"Â";0
+"0498";"Juice of Lemon";"See 0491.";497
+"0499";"Lemon Juice, Concentrated";"See 0492.";497
+"0507";"GRAPEFRUIT AND POMELO
+Citrus maxima; C. grandis; C. paradisi";"Â";0
+"0509";"Juice of Grapefruit";"See 0491.";507
+"0510";"Grapefruit Juice, Concentrated";"See 0492.";507
+"0512";"CITRUS FRUIT NES
+Including inter alia:
+bergamot (Citrus bergamia);
+citron (C. medica var. cedrata);
+chinotto (C. myrtifolia);
+kumquat (Fortunella japonica)";"Some minor varieties of citrus are used primarily in the preparation
+of perfumes and soft drinks.";0
+"0513";"Juice of Citrus Fruit nes";"See 0491.";512
+"0514";"Citrus Juice, Concentrated nes";"See 0492.";512
+"0515";"APPLES
+Malus pumila; M. sylvestris; M. communis; Pyrus malus";"Â";0
+"0517";"Cider, etc.";"See Chapter 15.";515
+"0518";"Apple Juice";"See 0491.";515
+"0519";"Apple Juice, Concentrated";"See 0492.";515
+"0521";"PEARS
+Pyrus communis";"Â";0
+"0523";"QUINCES
+Cydonia oblonga; C. vulgaris; C. japonica";"Â";0
+"0542";"POME FRUIT NES";"Other pome fruit not separately identified. In some countries apples,
+pears and quinces are reported under this general category.";0
+"0526";"APRICOTS
+Prunus armeniaca";"Â";0
+"0527";"Apricots, Dried";"Prepared either by direct drying in the sun or by industrial
+processes. May be marketed as slices or blocks of pulp, either dried
+or evaporated.";526
+"0530";"SOUR CHERRIES
+Prunus cerasus; Cerasus acida";"&NBsp;";0
+"0531";"CHERRIES
+mazzard, sweet cherry
+(Prunus avium; Cerasus avium);
+hard-fleshed cherry (var. duracina);
+heart cherry (var. juliana)";"Â";0
+"0534";"PEACHES AND NECTARINES
+Prunus persica; Amygdalus persica;
+Persica laevis";"Â";0
+"0536";"PLUMS
+greengage, mirabelle, damson (Prunus domestica);
+sloe (P. spinosa)";"Â";0
+"0537";"Plums, Dried";"See 0527. Known as prunes.";536
+"0538";"Juice of Plum";"See 0491.";536
+"0539";"Juice of Plum, Concentrated";"See 0492.";536
+"0541";"STONE FRUIT, FRESH NES";"Other stone fruit not separately identified. In some countries,
+apricots, cherries, peaches, nectarines and plums are reported under
+this general category.";0
+"0544";"STRAWBERRIES
+Fragaria spp.";"Â";0
+"0547";"RASPBERRIES
+ubus idaeus";"Trade data may include blackberries, mulberries and loganberries (a
+cross between the raspberry and blackberry).";0
+"0549";"GOOSEBERRIES
+Ribes grossularia";"Trade data may sometimes include black, white or red currants.";0
+"0550";"CURRANTS
+black (Ribes nigrum);
+red and white (R. rubrum)";"Trade data may sometimes include gooseberries.";0
+"0552";"BLUEBERRIES
+European blueberry, wild bilberry,
+whortleberry (Vaccinium myrtillus);
+American blueberry (V. corymbosum)";"Trade data may include cranberries, myrtle berries and other fruits of
+the genus Vaccinium.";0
+"0554";"CRANBERRIES
+American cranberry (Vaccinium macrocarpon);
+European cranberry (V. oxycoccus)";"Trade data may include blueberries, myrtle berries and other fruits of
+the genus Vaccinium.";0
+"0558";"BERRIES NES
+Including inter alia:
+blackberry (Morus nigra);
+loganberry;
+white, red mulberry (M. alba; M. rubra);
+myrtle berry (Myrtus communis) huckleberry,
+dangleberry (Gaylussacia spp.)";"Other berries not separately identified. In some countries, some or
+all of the berries listed previously are reported under this general
+category.";0
+"0560";"GRAPESVitis vinifera";"Includes both table and wine grapes.";234
+"0561";"Raisins";"Dried grapes. Includes sultanas and currants.";234
+"0562";"Juice of Grape";"See 0491. Includes unfermented grape must.";234
+"0563";"Must of Grape";"See Chapter 15.";234
+"0565";"Vermouths, etc.";"See Chapter 11.";234
+"0569";"FIGS
+Ficus carica";"Â";0
+"0570";"Figs, Dried";"See 0527.";569
+"0587";"PERSIMONS
+Diospyros kaki: D. virginiana";"Â";0
+"0592";"KIWI FRUIT
+Actinidia chinensis";"";0
+"0571";"MANGOES
+Mangifera indica";"Trade figures may include dried mangoes, guavas and mangosteens,
+including both fresh and dried.";0
+"0583";"Juice of Mango";"See 0491.";571
+"0584";"Mango Pulp";"Fruit pulp prepared in water, syrup, etc.";571
+"0572";"AVOCADOS
+Persea americana";"Â";0
+"0574";"PINEAPPLES
+Ananas comosus; A. sativ";"Trade figures may include dried pineapples.";0
+"0575";"Pineapples, Canned";"Fruit pulp prepared in water, syrup, etc.";574
+"0576";"Juice of Pineapples";"See 0491.";574
+"0580";"Juice of Pineapples, Concentrated";"See 0492. Soluble fruit solids of not less than 27% by weight.";574
+"0577";"DATES
+Phoenix dactylifera";"Includes fresh and dried fruit.";0
+"0591";"CASHEWAPPLE
+Anacardium occidentale";"The thickened, fleshy stem below the cashew nut. When soft it is used
+for jam.";0
+"0600";"PAPAYAS
+Carica papaya";"Â";0
+"0603";"FRUIT, TROPICAL (FRESH) NES
+Including inter alia:
+breadfruit (Artocarpus incisa);
+carambola (Averrhoa carambola);
+cherimoya, custard apple (Annona spp.);
+durian (Durio zibethinus);
+feijoa (Feijoa sellowiana);
+guava (Psidium guajava);
+hog plum, mombin (Spondias spp.);
+jackfruit (Artocarpus integrifolia);
+longan (Nephelium longan);
+mammee (Mammea americana);
+mangosteen (Garcinia mangostana);
+naranjillo (Solanum quitoense);
+passion fruit (Passiflora edulis);
+rambutan (Nephelium lappaceum);
+sapote, mamey colorado (Calocarpum mammosum);
+sapodilla (Achras sapota);
+star apple, cainito (Chrysophyllum spp.)";"Other tropical fresh fruit that are not identified separately because
+of their minor relevance at the international level. In some countries
+mangoes, avocados, pineapples, dates and papayas are reported under
+this general category.";0
+"0604";"Fruit, Tropical (Dried) nes";"Including, whenever possible, dried bananas, plantains and pineapples
+as well as other unlisted tropical fruits.";603
+"0619";"FRUIT, FRESH NES
+Including inter alia:
+azarole (Crataegus azarolus);
+babaco (Carica pentagona);
+elderberry (Sambucus nigra);
+jujube (Zizyphus jujuba);
+litchi (Nephelium litchi);
+loquat (Eriobotrya japonica);
+medlar (Mespilus germanica);
+pawpaw (Asimina triloba);
+pomegranate (Punica granatum);
+prickly pear (Opuntia ficus-indica);
+rose hips (Rosa spp.);
+rowanberry (Sorbus aucuparia);
+service-apple (Sorbus domestica);
+tamarind (Tamarindus indica);
+tree-strawberry (Arbutus unedo)";"Other fresh fruit that are not identified separately because of their
+minor relevance at the international level. Because of their limited
+local importance, some countries report fresh fruit under this heading
+that are classified separately by FAO.";0
+"0620";"Fruit, Dried nes";"Dried fruit other than apricots, dates, citrus, figs, grapes, nuts and
+plums.";619
+"0622";"Juice of Fruits nes";"See 0491.";619
+"0623";"Fruit, Prepared nes";"Fruit, nuts and peel, including frozen, prepared or preserved, jam,
+paste, marmalade, purÂ‚e and cooked fruits, other than those listed
+separately.";619
+"0624";"Flour of Fruits";"Includes the flour, meal, powder, nuts and peel of fruits.";619
+"0625";"Fruit, Nuts, Peel, Sugar Preserved";"Fruit, nuts, fruit peel, and other parts of plants preserved with
+sugar (either drained, glazed or crystallized).";619
+"0626";"Homogenized Cooked Fruit, Prepared";"Cooked fruit preparations, homogenized for dietetic and infant foods.";619
+"0628";"Pulp, Waste of Fruit for Feed";"See Chapter 3.";619
+"0767";"COTTON LINT
+Gossypium spp";"Fibres from ginning seed cotton that have not been carded or combed.
+Trade data also include fibres that have been cleaned, bleached, dyed
+or rendered absorbent.";0
+"0768";"Cotton, Carded or Combed";"Cotton (including garnetted stock and other cotton waste) which has
+been carded or combed, whether or not further prepared for spinning.
+May be bleached or dyed.";767
+"0769";"Cotton Waste";"Waste is produced when cotton is prepared for spinning, or during
+spinning operations, weaving, knitting, etc., or from garnetting
+cotton goods.";767
+"0770";"Cotton Linters";"Very short fibres that cover the seeds after ginning and that are very
+high in cellulose.";767
+"0771";"[FLAX, RAW OR RETTED]
+Linum usitatissimum
+Flax Straw";"Flax is cultivated for seed as well as for fibre. The fibre is
+obtained from the stem of the plant. Data are reported in terms of
+straw.";0
+"0773";"FLAX FIBRE AND TOW";"Broken, scutched, hackled etc. but not spun. Traditionally, FAO has
+used this commodity to identify production in its raw state; in
+reality, the primary agricultural product is the commodity 0771, which
+can either be used for the production of fibre or for other purposes.";0
+"0774";"Flax Tow and Waste";"Includes yarn waste and garnetted stock.";773
+"0777";"HEMP FIBRE AND TOW
+Cannabis sativa";"This plant is cultivated for seed as well as for fibre. The fibre is
+obtained from the stem of the plant. Trade data include raw, retted,
+scutched, combed fibre, tow and waste.";0
+"0778";"KAPOK FIBRE
+Ceiba pentandra";"This plant is cultivated for seed as well as for fibre. Trade data
+cover only fibres that have been crushed, carded or combed for
+spinning.";0
+"0780";"JUTE
+white jute (Corchorus capsularis);
+red jute, tossa (C. olitorius)";"Trade data cover raw or processed jute (but not spun), tow and waste,
+yarn waste and garnetted stock and may include jute-like fibres.";0
+"0782";"JUTE-LIKE FIBRES
+Including inter alia:
+China jute (Abutilon avicennae);
+Congo jute, malva, paka (Urena lobata; U. sinuata);
+Indian flax (Abroma augusta);
+kenaf, meshta (Hibiscus cannabinus);
+rosella hemp (H. sabdariffa);
+sunn hemp (Crotalaria juncea)";"This definition covers all textile fibres extracted from the stems of
+dicotyledonous plants, o/t flax, ramie, true hemp and true jute. For
+trade coverage see 0780.";0
+"0788";"RAMIE
+China grass, white ramie (Boehmeria nivea);
+rhea, green ramie (B. tenacissima)";"Ramie fibre is obtained from the bast of the plant. For trade coverage
+see 0780";0
+"0789";"SISAL
+Agave sisalana";"Sisal fibre is obtained from the leaves of the plant. It also is used
+as an ornamental plant. Trade data cover fibres that are raw, prepared
+for spinning, and tow and waste, including yarn waste and garnetted
+stock.";0
+"0800";"AGAVE FIBRES NES
+Including inter alia:
+Haiti hemp (Agave foetida);
+henequen (A. fourcroydes);
+ixtle, tampico (A. lecheguilla);
+maguey (A. cantala);
+pita (A. americana);
+Salvador hemp (A. letonae)";"See 0789. The leaves of some agave varieties are used for the
+production of alcoholic beverages, such as aquamiel, mezcal, pulque
+and tequila.";0
+"0809";"ABACA MANILA HEMP
+Musa textilis";"The fibre is obtained from stalks of certain banana trees. For trade
+coverage see 0789.";0
+"0813";"COIR
+Cocos nucifera";"Coir fibre is obtained from the fibrous covering of the mesocarp. For
+trade coverage see 0789.";0
+"0821";"FIBRE CROPS NES
+Including inter alia:
+alfa, esparto (Lygeum spartum;
+Stipa tenacissima);
+bowstring hemp (Sansevieria spp.);
+caroa (Neoglaziovia variegata);
+fuque fibre (Furcraea macrophylla);
+Mauritius hemp (F. gigantea);
+New Zealand flax (Phormium tenax);
+palma ixtle (Samuela carnerosana)";"Other fibres that are not identified separately because of their minor
+relevance at the international level. Because of their limited local
+importance, some countries report vegetable fibres under this
+commodity heading that are classified individually by FAO. The fibre
+is obtained from the leaves, stalks or fruit of the plant. In
+instances where the fibrous part is normally used for other purposes,
+data cover only those fibres intended for spinning. For trade coverage
+see 0789.";0
+"0987";"WOOL, GREASY";"A natural fibre taken from sheep or lambs. Includes fleece-washed,
+shorn and pulled wool (from slaughtered animals), but does not include
+carded or combed wool.";0
+"0988";"Wool, Degreased";"Includes scoured and carbonized, but does not include carded or combed
+wool.";987
+"1007";"Wool, Shoddy";"Garnetted stock of wool or of fine or coarse animal hair obtained by
+garnetting rags or waste of spinning, weaving, knitting etc.";987
+"1008";"Hair, Carded, Combed";"Wool and fine or coarse animal hair, carded or combed, including
+combed wool in fragments.";987
+"1009";"Wool, Hair Waste";"Noils of wool or animal hair not garnetted;  other waste of wool and
+animal hair (excluding horsehair) not covered in 1007.";987
+"1010";"Wool Tops";"Slivers consisting of long fibres laid parallel by combing and then
+wound into balls.";987
+"1030";"FINE GOAT HAIR";"Hair from cashmere, angora (mohair) and similar goats. Excludes carded
+or combed hair.";0
+"1031";"COARSE GOAT HAIR";"Common goat hair. Not carded or combed hair.";0
+"1100";"HAIR OF HORSES";"Includes hair of the manes and tails of equine and bovine animals and
+waste therefrom.  Hair from flanks included in 1219.";0
+"1185";"COCOONS, REELABLE";"Silkworm cocoons suitable for reeling. Foreign trade data are
+expressed in silk equivalent, which is 25% of their weight.";0
+"1186";"Silk, Raw";"Obtained by reeling the filaments from cocoons. Not thrown.";1185
+"1187";"Cocoons Unreelable, Waste";"Include cocoons unsuitable for reeling and silk waste of all kinds.
+Not carded or combed.";1185
+"1218";"HAIR, FINE";"Fine animal hair, mainly from alpaca, llama, vicuÂ¤a, camel and angora
+rabbit. Excludes carded or combed hair.";0
+"1219";"HAIR, COARSE NES";"Hair from flanks of equines and bovines, as well as hair from other
+animals, such as dogs and monkeys. Excludes carded or combed hair.";0
+"0687";"PEPPER
+black, white pepper (Piper nigrum);
+long pepper (P. longum)";"Perennial climbing vines. Includes whole, crushed or ground berries.
+Black pepper is produced from partially ripe berries, while white
+pepper is from fully ripe berries which have had the outer hull
+removed.";0
+"0689";"PIMENTO
+red and cayenne pepper, paprika, chillies (Capsicum frutescens; C.
+annuum);
+allspice, Jamaica pepper (Pimenta officinalis)";"Uncrushed or unground fresh pimentos are considered to be vegetables.
+See Chapter 7.";0
+"0692";"VANILLA
+Vanilla planifolia; V. pompona";"The fruit (or bean) of a climbing plant of the orchid family. Includes
+whole, crushed or ground.";0
+"0693";"CINNAMON (CANELLA)
+Ceylon cinnamon (Cinnamomum zeylanicum);
+Chinese, common cinnamon, cassia (C. cassia)";"The inner bark of young branches of certain trees of the Laurus
+family. Includes cinnamon- tree flowers, cinnamon fruit and cinnamon
+waste (chips), whether whole, crushed or ground.";0
+"0698";"CLOVES
+Eugenia caryophyllata;
+Caryophyllus aromaticus";"The whole fruit of the clove tree, including the flowers picked before
+maturity and dried in the sun, and the stems of the clove flowers.";0
+"0702";"NUTMEG, MACE, CARDAMONS
+nutmeg, mace (Myristica fragrans);
+cluster cardamon (Elettaria cardamomum);
+other cardamons (Aframomum angustifolium; A. hambury;
+Amomun aromaticum; A. cardamomum);
+Malaguetta pepper, grains of paradise (Aframomum melegueta)";"Nutmeg is the inner brown kernel of the fruit of the nutmeg tree. Mace
+is the net-like membrane between the outer shell and the kernel.
+Cardamon seeds are enclosed in the capsule produced by perennial herbs
+of the Zingiberaceae family.";0
+"0711";"ANISE, BADIAN, FENNEL
+Include: anise (Pimpinella anisum);
+badian or star anise (Illicium verum);
+caraway (Carum carvi);
+coriander (Coriandrum sativum);
+cumin (Cuminum cyminum);
+fennel (Foeniculum vulgare);
+juniper berries (Juniperus communis)";"Seeds and berries from the various plants listed. They are normally
+used as spices, but also have industrial (e.g. in distilleries) and
+medicinal applications.";0
+"0720";"GINGER
+Zingiber officinale";"Rhizome of a perennial herb. It also is used for making beverages.
+Includes fresh, provisionally preserved or dried, whereas ginger
+preserved in sugar or syrup is excluded.";0
+"0723";"SPICES NES
+Including inter alia:
+bay leaves (Laurus nobilis);
+dill seed (Anethum graveolens);
+fenugreek seed (Trigonella foenum-graecum);
+saffron (Crocus sativus);
+thyme (Thymus vulgaris);
+turmeric (Curcuma longa)";"Other spices that are not identified separately because of their minor
+relevance at the international level. Because of their limited local
+importance, some countries report spices under this heading that are
+classified individually by FAO. This heading also includes curry
+powder and other mixtures of different spices.";0
+"0656";"COFFEE, GREEN
+Coffea spp. (arabica, robusta, liberica)";"Raw coffee in all forms.";0
+"0657";"Coffee, Roasted";"With or without caffeine, and whether or not ground.";656
+"0658";"Coffee Substitutes";"Coffee substitutes containing coffee in any proportion.";656
+"0659";"Coffee Extracts";"Essences and concentrates, including instant coffee, roasted chicory
+and other coffee substitutes, extracts and essences thereof.";656
+"0660";"Coffee Husks and Skins";"";656
+"0661";"COCOA BEANS
+Theobroma cacao";"The seeds contained in the fruit of the cacao- tree, including whole
+or broken, raw or roasted.";0
+"0662";"Cocoa Paste";"Obtained by grinding roasted cocoa beans. Also called liquor. Not
+defatted.";661
+"0663";"Cocoa Husks and Shells";"Including skins and other cocoa waste.";661
+"0664";"Cocoa Butter";"Obtained by hot-pressing either cocoa paste or the whole bean.
+Includes the fat and oil.";661
+"0665";"Cocoa Powder and Cake";"Wholly or partly defatted paste (cake) and cake reduced to powder,
+without added sugar or other sweeteners.";661
+"0666";"Chocolate Products nes";"Includes sweetened cocoa powder, chocolate and other food preparations
+containing cocoa, as well as sugar confectionery containing cocoa in
+any amount. Excludes white chocolate
+(see 0168 in Chapter .).";661
+"0667";"TEA
+Camellia sinensis; Thea
+sinensis; Thea assaamica";"Includes green tea (unfermented), black tea (fermented), and partially
+fermented tea. Excludes green tea eaten as a vegetable.";0
+"0671";"MATE
+Ilex paraguayensis";"The dried leaves of certain shrubs of the holly family which grow in
+South America. Prepared in a way similar to tea.";0
+"0672";"Extracts of Tea and Mate";"Includes essences, concentrates and preparations of tea and matÂ‚.";671
+"0674";"TEA NES";"Various plants used for making infusions like tea, i.e. herbal teas.";0
+"0866";"CATTLE
+common ox (Bos taurus);
+zebu, humped ox (Bos indicus);
+Asiatic ox (subgenus Bibos);
+Tibetan yak (Poephagus grunniens)";"Animals of the genus listed, regardless of age, sex, or purpose
+raised. Data are expressed in number of heads.";0
+"0946";"BUFFALOES
+Indian, Asiatic, pigmy, water
+buffalo (Bubalus bubalus;
+B. arnee; B. depressicornis);
+African buffalo (genus Syncerus);
+American bison (Bison bison);
+European bison (Bison bonasus);
+beeffalo (cross between a bison and a domesticated beef animal)";"See 0866. Excludes wild bisons and buffaloes.";0
+"0976";"SHEEP
+Ovis spp.";"See 0866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan.";0
+"1016";"GOATS
+Capra spp.";"See 0866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir
+and Angora.";0
+"1034";"PIGS
+domestic pig (Sus domestica);
+wild boar (Sus scrofa)";"See 0866. Excludes non-domesticated wild boars.";0
+"1057";"CHICKENS
+fowl (Gallus domesticus);
+Guinea fowl (Numida meleagris";"";0
+"1068";"DUCKS
+Anas spp.";"See 1057.";0
+"1072";"GEESE
+Anser spp.";"See 1057.";0
+"1079";"TURKEYS
+Meleagris gallopavo";"See 1057.";0
+"1083";"PIGEONS AND OTHER BIRDS
+Including inter alia:
+partridge (Alectoris rufa);
+pigeon (Columba livia);
+quail (Coturnis spp.);
+turtle dove, pheasant, etc.";"See 1057.";0
+"1096";"HORSES
+Equus caballus";"See 0866.";0
+"1107";"ASSES
+Equus asinus";"See 0866.";0
+"1110";"MULES";"Includes hinnies. Mules are offspring of a male ass and a female horse
+(mare); a hinny is the offspring of a female ass and a male horse
+(stallion). Both are sterile. See 0866.";0
+"1126";"CAMELS
+Bactrian camel (Camelus bactrianus);
+Arabian camel (C. dromedarius)";"See 0866.";0
+"1157";"OTHER CAMELIDS
+Various species of Lama:
+e.g. glama pacos (alpaca);
+peruana (llama); huanacos
+(guanaco>); vicugna (vicuÂ¤a)";"See 0866.";0
+"1140";"RABBITS
+Oryctolagus cuniculus";"See 0866. May include domesticated hares (Lepus spp.). Data are
+expressed in thousands.";0
+"1150";"OTHER RODENTS";"See 0866. Includes only those used mainly for meat, e.g. Guinea pig.
+Rodents used mainly for fur skins are included in Code 1169. Data are
+expressed in thousands.";0
+"1169";"LIVE ANIMALS, NON- FOOD NES";"Any animal not raised for food. External trade data also include wild
+animals.";0
+"1171";"LIVE ANIMALS NES";"Any other animal grown for meat, eggs, feathers and skins, e.g.
+ostrich, antelope, deer, reindeer, chamois.";0
+"1181";"BEEHIVES
+Apis mellifica; A. dorsata;
+A. florea; A. indica";"A beehive is an artificial habitation for bees.";0
+"0882";"COW MILK, WHOLE (FRESH)";"Production data refer to raw milk containing all its constituents.
+Trade data normally cover milk from any animal, and refer to milk that
+is not concentrated, pasteurized, sterilized or other-wise preserved,
+homogenized or peptonized.";0
+"0883";"Standardized Milk";"Milk in which the fat content is adjusted to a predetermined value
+without altering any other constituents.";882
+"0885";"Cream, Fresh";"That portion of milk which is rich in milk fat and is separated by
+skimming or centrifuging.";882
+"0886";"Butter of Cow Milk";"Emulsion of milk fat and water that is obtained by churning cream.
+Trade data cover butter from the milk of any animal.";882
+"0887";"Ghee from Cow Milk";"Butter from which the water has been removed. Very common in hot
+countries. Includes also anhydrous butterfat or butter oil.";882
+"0888";"Skim Milk of Cows";"Milk from which most of the fat has been removed.";882
+"0889";"Whole Milk, Condensed";"Milk and cream from which water has been partly removed after
+heat-treating and concentrating. Normally sucrose is added to give the
+product stability and bacteriological safety.";882
+"0890";"Whey, Condensed";"Whey paste.";882
+"0891";"Yoghurt";"A fermented milk food.";882
+"0892";"Yoghurt, Concentrated or Unconcent";"Includes additives such as sugar, flavouring materials, fruit or
+cocoa.";882
+"0893";"Buttermilk, Curdled Milk, Acidifie";"Residue from butter making. Includes kephir.";882
+"0894";"Whole Milk, Evaporated";"Milk and cream from which the water has been partly removed and which
+has been heat- treated to render it bacteriologically safe and stable.";882
+"0895";"Skim Milk, Evaporated";"Same as 0894, but applied to skim milk.";882
+"0896";"Skim Milk, Condensed";"Same as 0889, but applied to skim milk.";882
+"0897";"Dry Whole Cow Milk";"Milk and cream from which water has been completely removed by various
+methods. In form of powder, granules or other solid forms. May contain
+added sugar or other sweeteners.";882
+"0898";"Dry Skim Cow Milk";"Same as 0897, but from skim milk. Normally does not exceed 1.5% fat
+content.";882
+"0899";"Dry Buttermilk";"";882
+"0900";"Dry Whey";"Used in both food and animal feed.";882
+"0901";"Cheese from Whole Cow Milk";"Curd of milk that has been coagulated and separated from whey. May
+include some skimmed milk.";882
+"0903";"Whey, Fresh";"The liquid part of the milk that remains after the separation of curd
+in cheese making. Its main food use is in the preparation of whey
+cheese, whey drinks and fermented whey drinks. The main industrial
+uses are in the manufacture of lactose, whey paste and dried whey.";882
+"0904";"Cheese from Skimmed Cow Milk";"May include some whole milk.";882
+"0905";"Whey Cheese";"";882
+"0907";"Processed Cheese";"";882
+"0173";"Lactose";"See Chapter 3.";882
+"0917";"Casein";"The main protein constituent of milk. Casein is obtained from skimmed
+milk by precipitation (curdling) with acids or rennet.";882
+"0908";"Reconstituted Milk";"Obtained by adding water, fat, etc. to milk powder.";882
+"0909";"Products of Natural Milk Constitue";"";882
+"0910";"Ice Cream and Edible Ice";"A product with a milk or cream base to which sweeteners, eggs, etc.
+have been added.";882
+"0951";"BUFFALO MILK";"See 0882 and derived products.";0
+"0952";"Butter of Buffalo Milk";"";951
+"0953";"Ghee, from Buffalo Milk";"";951
+"0954";"Skim Milk of Buffalo";"Cheese of Buffalo Milk";951
+"0982";"SHEEP MILK";"See 0882 and derived products.";0
+"0983";"Butter and Ghee of Sheep Milk";"";982
+"0984";"Cheese of Sheep Milk";"";982
+"0985";"Skim Sheep Milk";"";982
+"1020";"GOAT MILK";"See 0882 and derived products.";0
+"1021";"Cheese of Goat
+Milk";"";1020
+"1022";"Butter of Goat
+Milk";"";1020
+"1023";"Skim Milk of Goat";"";1020
+"1062";"HEN EGGS";"Weight in shell.";0
+"1067";"HEN EGGS,
+(NUMBER)";"";0
+"1063";"Eggs, Liquid";"Whole eggs, not in the shell, and egg yolks in liquid form that are
+frozen or otherwise preserved.";1067
+"1064";"Eggs, Dried";"Whole eggs and egg yolks, dried or powdered.";1067
+"0916";"Egg Albumin";"The main protein constituent of egg white.";1067
+"1091";"EGGS, EXCLUDING HEN
+EGGS";"Weight in shell.";0
+"1092";"EGGS, EXCLUDING HEN EGGS
+(NUMBER)";"";0
+"1130";"CAMEL MILK";"See 0882.";0
+"1182";"HONEY";"See Chapter 3.";0
+"1183";"BEESWAX";"The substance bees use to build the hexagonal cells of the combs of
+beehives. Includes other insect waxes as well, i.e. lac and Chinese
+wax.";0
+"0867";"MEAT OF CATTLE";"Meat of bovine animals, fresh, chilled or frozen, with bone in. Commontrade names are beef and veal.";0
+"0868";"OFFALS OF CATTLE, EDIBLE";"Fresh, chilled or frozen.";0
+"0869";"FAT OF CATTLE";"See Chapter 14.";0
+"0870";"MEAT OF CATTLE, BONELESS";"Boneless meat of bovine animals, whether fresh, chilled or frozen.";0
+"0871";"Cattle, Butcher Fat";"See Chapter 14.";870
+"0872";"Beef and Veal, Dried, Salted, Smok";"Meat of bovine animals, whether salted, in brine, dried or smoked.Includes edible flours and meals.";870
+"0873";"Meat Extracts";"Extracts obtained by boiling meat under pressure and concentrating theresulting liquid after the fat has been removed. Includes juicesobtained by pressing raw meat. Whenever possible trade data excludefish extracts.";870
+"0874";"Sausages of Beef and Veal";"Preparations of meat or offal, whether chopped, minced or of blood.They may be raw, cooked or smoked and contain other ingredients, andare then enclosed in natural or artificial casings.";870
+"0875";"Beef and Veal Preparations nes";"Meat and offal (o/t liver) that are boiled, steamed, grilled, fried,roasted or otherwise cooked. Includes prepared meals that contain morethan 20% of meat and offal by weight.";870
+"0877";"Homogenized Meat Preparations";"Preparations used in infant or dietetic food.";870
+"0878";"Liver Preparations";"Liver of any animal, excluding fatty livers of code 1060.";870
+"0947";"BUFFALO MEAT";"Fresh, chilled or frozen, with bone in or boneless.";0
+"0948";"OFFALS OF BUFFALO, EDIBLE";"Fresh, chilled or frozen.";0
+"0949";"FAT OF BUFFALO";"See Chapter 14.";0
+"0977";"MEAT OF SHEEP";"Meat of sheep and lamb, whether fresh, chilled or frozen, with bone inor boneless.";0
+"0978";"OFFALS OF SHEEP, EDIBLE";"Fresh, chilled or frozen.";0
+"0979";"FAT OF SHEEP";"See Chapter 14.";0
+"1017";"GOAT MEAT";"Meat of goats and kids, whether fresh, chilled or frozen, with bone inor boneless.";0
+"1018";"OFFALS OF GOATS, EDIBLE";"Fresh, chilled or frozen.";0
+"1019";"FAT OF GOATS";"See Chapter 14.";0
+"1035";"PIG MEAT";"Meat, with the bone in, of domestic or wild pigs (e.g. wild boars),whether fresh, chilled or frozen.";0
+"1036";"OFFALS OF PIGS, EDIBLE";"Fresh, chilled or frozen.";0
+"1037";"FAT OF PIGS";"See Chapter 14.";0
+"1038";"PORK";"Pig meat, excluding butcher fat and bones.";0
+"1039";"Bacon and Ham";"Meat of pigs, whether salted, in brine, dried or smoked.";1038
+"1040";"Pig, Butcher Fat";"See Chapter 14.";1038
+"1041";"Sausages of Pig Meat";"See 0874.";1038
+"1042";"Pig Meat Preparations";"See 0875.";1038
+"1043";"Lard";"See Chapter 14.";1038
+"1058";"CHICKEN MEAT";"Fresh, chilled or frozen. May include all types of poultry meat ifnational statistics do not report separate data.";0
+"1059";"OFFALS AND LIVER OF CHICKENS";"Fresh, chilled or frozen.";0
+"1060";"Fatty Liver Preparations";"Fatty livers of ducks and geese when cooked, prepared or preserved(e.g. patÂ‚).";1059
+"1061";"Meat, Canned (Chicken)";"Includes meat and offals of poultry.";1059
+"1065";"FAT OF POULTRY";"See Chapter 14.";0
+"1066";"Fat of Poultry, Rendered";"See Chapter 14.";1065
+"1069";"DUCK MEAT";"Fresh, chilled or frozen.";0
+"1075";"OFFALS AND LIVER OF DUCKS";"Fresh, chilled or frozen, salted or in brine.";0
+"1073";"GOOSE MEAT";"Fresh, chilled or frozen.";0
+"1074";"OFFALS AND LIVER OF GEESE";"Fresh, chilled or frozen, salted or in brine.";0
+"1080";"TURKEY MEAT";"Fresh, chilled or frozen.";0
+"1081";"OFFALS AND LIVER OF TURKEYS";"";0
+"1089";"MEAT OF PIGEONS AND OTHER BIRDS NES";"Fresh, chilled or frozen.";0
+"1097";"HORSE MEAT";"Fresh, chilled or frozen.";0
+"1098";"OFFALS OF HORSES";"Fresh, chilled or frozen.";0
+"1108";"MEAT OF ASSES";"Fresh, chilled or frozen.";0
+"1111";"MEAT OF MULES";"Fresh, chilled or frozen.";0
+"1127";"MEAT OF CAMELS";"Fresh, chilled or frozen.";0
+"1128";"OFFALS OF CAMELS, EDIBLE";"Fresh, chilled or frozen.";0
+"1129";"FAT OF CAMELS";"See Chapter 14.";0
+"1141";"RABBIT MEAT";"Fresh, chilled or frozen. May include hare meat.";0
+"1151";"MEAT OF OTHER DOMESTIC RODENTS";"Fresh, chilled or frozen.";0
+"1158";"MEAT OF OTHER DOMESTIC CAMELIDS";"Fresh, chilled or frozen.";0
+"1160";"FAT OF OTHER CAMELIDS";"See Chapter 14.";0
+"1163";"GAME MEAT";"Meat and offals of wild animals, whether fresh, chilled or frozen.";0
+"1164";"Meat, Dried nes";"Meat, except of bovines and pigs, salted, in brine or smoked.";NA
+"1176";"SNAILS O/T SEA SNAILS";"Fresh, chilled, frozen, dried, salted or in brine.";0
+"1166";"MEAT NES";"Including frog legs, marine mammals, etc.  Some countries includeunder this heading meats that are listed above, but which are notreported separately. Fresh, chilled or frozen.";0
+"1167";"OFFALS NES";"Fresh, chilled or frozen.";0
+"1168";"Animal Oils and Fats nes";"See Chapter 14.";NA
+"1172";"Meat, Prepared nes";"Excludes poultry, swine or bovine meat preparations.";NA
+"1173";"Meat Meal";"See Chapter 11.";NA
+"1175";"Blood Meal";"See Chapter 11.";NA
+"1221";"Lard Stearine and Lard Oil";"See Chapter 14.";NA
+"1225";"Tallow";"See Chapter 14.";NA
+"1232";"Food Preparations nes";"Including turtle eggs and birds' nests.";NA
+"1243";"Fat Preparations nes";"See Chapter 14.";NA
+"0944";"Indigenous Cattle Meat";"";NA
+"0972";"Indigenous Buffalo Meat";"";NA
+"1012";"Indigenous Sheep Meat";"";NA
+"1032";"Indigenous Goat Meat";"";NA
+"1055";"Indigenous Pig Meat";"";NA
+"1095";"Indigenous Chicken Meat";"";NA
+"1070";"Indigenous Duck Meat";"";NA
+"1077";"Indigenous Goose Meat";"";NA
+"1087";"Indigenous Turkey Meat";"";NA
+"1084";"Indigenous Meat, Other Poultry";"";NA
+"1120";"Indigenous Horse Meat";"";NA
+"1122";"Indigenous Ass Meat";"";NA
+"1124";"Indigenous Mule Meat";"";NA
+"1137";"Indigenous Camel Meat";"";NA
+"1144";"Indigenous Rabbit Meat";"";NA
+"1154";"Indigenous Meat, Other Rodents";"";NA
+"1161";"Indigenous Meat, Other Camelids";"";NA
+"0945";"Biological Cattle Meat";"";NA
+"0973";"Biological Buffalo Meat";"";NA
+"1013";"Biological Sheep Meat";"";NA
+"1033";"Biological Goat Meat";"";NA
+"1056";"Biological Pig Meat";"";NA
+"1095";"Biological Chicken Meat";"";NA
+"1071";"Biological Duck Meat";"";NA
+"1078";"Biological Goose Meat";"";NA
+"1088";"Biological Turkey Meat";"";NA
+"1085";"Biological Meat, Other Poultry";"";NA
+"1121";"Biological Horse Meat";"";NA
+"1123";"Biological Ass Meat";"";NA
+"1125";"Biological Mule Meat";"";NA
+"1138";"Biological Camel Meat";"";NA
+"1145";"Biological Rabbit Meat";"";NA
+"1155";"Biological Meat, Other Rodents";"";NA
+"1162";"Biological Meat, Other Camelids";"";NA
+"0176";"BEANS, DRY
+Phaseolus spp.: kidney, haricot bean  (Ph. vulgaris);
+lima, butter bean (Ph. lunatus);
+adzuki bean (Ph. angularis);
+mungo bean, golden, green gram (Ph. aureus);
+black gram, urd (Ph. mungo);
+scarlet runner bean  (Ph. coccineus);
+rice bean (Ph. calcaratus);
+moth bean (Ph. aconitifolius);
+tepary bean (Ph. acutifolius)";"Only species of Phaseolus should be included, though several countries
+also include certain types of beans. Commonly classified as Vigna
+(angularis, mungo, radiata, aconitifolia). In the past, these species
+were also classified as Phaseolus.";0
+"0181";"BROAD BEANS, DRY
+Vicia faba:
+horse-bean (var. equina);
+broad bean (var. major);
+field bean (var. minor)";"Â";0
+"0187";"PEAS, DRY
+garden pea (Pisum sativum);>
+field pea (P. arvense)";"Â";0
+"0191";"CHICK-PEAS
+chickpea, Bengal gram, garbanzos (Cicer arietinum)";"Â";0
+"0195";"COW PEAS, DRY
+cowpea, blackeye pea/bean  (Vigna sinensis; Dolichos sinensis)";"Â";0
+"0197";"PIGEON PEAS
+pigeon pea, cajan pea, Congo bean (Cajanus cajan)";"Â";0
+"0201";"LENTILS
+(Lens esculenta; Ervum lens)";"Â";0
+"0203";"BAMBARA BEANS
+bambara groundnut, earth pea (Voandzeia subterranea)";"These beand are grown underground in a similar way to groundnuts.";0
+"0205";"VETCHES
+spring/common vetch (Vicia sativa)";"Used mainly for animal feed.";0
+"0210";"LUPINS
+(Lupinus spp.)";"Used primarily for feed, though in some parts of Africa and in Latin
+America some varieties are cultivated for human food.";0
+"0211";"PULSES NES
+Including inter alia: lablab or hyacinth bean (Dolichos spp.);
+jack or sword bean  (Canavalia spp.);
+winged bean (Psophocarpus tetragonolobus);
+guar bean (Cyamopsis tetragonoloba);
+velvet bean (Stizolobium spp.);
+yam bean (Pachyrrhizus erosus);";"Vigna spp. other than those included in 0176 and 0195
+Other pulses that are not identified separately because of their minor
+relevance at the international level. Because of their limited local
+importance, some countries report pulses under this heading that are
+classified individually by FAO.";0
+"0212";"Flour of Pulses";"Produced through milling or grinding of pulses.  This heading also
+includes meal.";-1
+"0213";"Bran of Pulses";"See Chapter 11.";-1
+"0216";"BRAZIL NUTS
+Brazil, Para or cream nut (Bertholletia excelsa)";"Â";0
+"0229";"Brazil Nuts, Shelled";"Around 55% of the weight in shell.";216
+"0217";"CASHEW NUTS
+Anacardium occidentale";"Produced mainly in East Africa, India and Brazil.";0
+"0230";"Cashew Nuts, Shelled";"Around 25% of the weight in shell.";217
+"0220";"CHESTNUTS
+Castanea spp.: C. vesca; C. vulgaris; C. sativa";"Produced mainly in Europe and Asia.";0
+"0221";"ALMONDS
+Prunus amygdalus; P. communis; Amygdalus communis";"Produced mainly in Mediterranean countries, the United States and
+Asia.";0
+"0231";"Almonds, Shelled";"Around 55% of the weight in shell.";221
+"0222";"WALNUTS
+Jugland spp.: J. regia";"Produced in temperate zones of the Northern Hemisphere, particularly
+in the United States.";0
+"0232";"Walnuts, Shelled";"Around 53% of the weight in shell.";222
+"0223";"PISTACHIOS
+Pistacia vera";"Produced mainly in the Near East and the United States.";0
+"0224";"KOLA NUTS
+kola, cola, Sudan cola nut  (Cola nitida; C. vera; C. acuminata)";"Produced mainly in Africa. Kola nuts, containing 2.4 to 2.6% caffeine,
+are commonly chewed by the local population. Much used in Europe and
+America in the production of beverages.";0
+"0225";"HAZELNUTS (FILBERTS)
+Corylus avellana";"Produced mainly in Mediterranean countries and the United States.";0
+"0233";"Hazelnuts, Shelled";"Around 50% of the weight in shell.";225
+"0226";"ARECA NUTS
+areca, betel nut (Areca catechu)";"Produced mainly in the Far East. Areca nuts are used mainly as
+masticatory. These nuts contain alkaloids (arecoline and arecaidine).";0
+"0234";"NUTS NES
+Including inter alia: pecan nut (Carya illinoensis);
+butter or swarri nut  (Caryocar nuciferum);
+pili nut, Java almond, Chinese olives (Canarium spp.);
+paradise or sapucaia nut (Lecythis zabucajo);
+Queensland, macadamia nut (Macadamia ternifolia);
+pignolia nut (Pinus pinea)";"Other nuts that are not identified separately because of their minor
+relevance at the international level. Because of their limited local
+importance, some countries report nuts under this heading that are
+classified individually by FAO.";0
+"0235";"Prepared Nuts";"Mainly roasted, whether or not containing vegetable oils, salt,
+flavours, spices or other additives. Excludes prepared groundnuts,
+except when mixed with other nuts.";-1

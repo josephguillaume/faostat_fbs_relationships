@@ -1,0 +1,532 @@
+"IncludedInCode";"IncludedInName";"ProductName";"ProductCode";"DerivedCode";"DerivedIncludedInCode"
+"2659";"Alcohol, Non-Food";"632 Alcohol non food";632;NA;NA
+"2617";"Apples and products";"515 Apples";515;0;NA
+"2617";"Apples and products";"518 Juice, apple, single strength";518;515;"2617"
+"2617";"Apples and products";"519 Juice, apple, concentrated";519;515;"2617"
+"2769";"Aquatic Animals, Others";"1587 Aqutc Anim F";1587;NA;NA
+"2769";"Aquatic Animals, Others";"1588 Aq A Cured";1588;NA;NA
+"2769";"Aquatic Animals, Others";"1589 Aquatic Animals Meals";1589;NA;NA
+"2769";"Aquatic Animals, Others";"1590 Aq A Prep Ns";1590;NA;NA
+"2775";"Aquatic Plants";"1594 Aquatic plants, fresh";1594;NA;NA
+"2775";"Aquatic Plants";"1595 Aquatic plants, dried";1595;NA;NA
+"2775";"Aquatic Plants";"1596 Aquatic plants, other preparations";1596;NA;NA
+"2615";"Bananas";"486 Bananas";486;0;NA
+"2513";"Barley and products";"44 Barley";44;0;NA
+"2513";"Barley and products";"45 Barley, pot";45;44;"2513"
+"2513";"Barley and products";"46 Barley, pearled";46;44;"2513"
+"2513";"Barley and products";"49 Malt";49;44;"2513"
+"2513";"Barley and products";"50 Malt extract";50;44;"2513"
+"2513";"Barley and products";"47 Bran, barley";47;44;"2513"
+"2513";"Barley and products";"48 Flour, barley and grits";48;44;"2513"
+"2546";"Beans";"176 Beans, dry";176;0;NA
+"2656";"Beer";"51 Beer of barley";51;44;"2513"
+"2658";"Beverages, Alcoholic";"634 Beverages, distilled alcoholic";634;NA;NA
+"2657";"Beverages, Fermented";"26 Beverages, fermented wheat";26;15;"2511"
+"2657";"Beverages, Fermented";"39 Beverages, fermented rice";39;27;"2805"
+"2657";"Beverages, Fermented";"66 Beer of maize";66;56;"2514"
+"2657";"Beverages, Fermented";"82 Beer of millet";82;79;"2517"
+"2657";"Beverages, Fermented";"86 Beer of sorghum";86;83;"2518"
+"2657";"Beverages, Fermented";"517 Cider etc";517;515;"2617"
+"2731";"Bovine Meat";"867 Meat, cattle";867;0;NA
+"2731";"Bovine Meat";"870 Meat, cattle, boneless (beef and veal)";870;0;NA
+"2731";"Bovine Meat";"872 Meat, beef, dried, salted, smoked";872;870;"2731"
+"2731";"Bovine Meat";"873 Meat, extracts";873;870;"2731"
+"2731";"Bovine Meat";"874 Meat, beef and veal sausages";874;870;"2731"
+"2731";"Bovine Meat";"875 Meat, beef, preparations";875;870;"2731"
+"2731";"Bovine Meat";"876 Meat, beef, canned";876;NA;NA
+"2731";"Bovine Meat";"877 Meat, homogenized preparations";877;870;"2731"
+"2731";"Bovine Meat";"947 Meat, buffalo";947;0;NA
+"2740";"Butter, Ghee";"886 Butter, cow milk";886;882;"2848"
+"2740";"Butter, Ghee";"887 Ghee, butteroil of cow milk";887;882;"2848"
+"2740";"Butter, Ghee";"952 Butter, buffalo milk";952;951;"2848"
+"2740";"Butter, Ghee";"953 Ghee, of buffalo milk";953;951;"2848"
+"2740";"Butter, Ghee";"983 Butter and ghee, sheep milk";983;982;"2848"
+"2740";"Butter, Ghee";"1022 Butter of goat mlk";1022;1020;"2848"
+"2532";"Cassava and products";"125 Cassava";125;0;NA
+"2532";"Cassava and products";"126 Flour, cassava";126;125;"2532"
+"2532";"Cassava and products";"127 Tapioca, cassava";127;125;"2532"
+"2532";"Cassava and products";"128 Cassava dried";128;125;"2532"
+"2532";"Cassava and products";"129 Starch, cassava";129;125;"2532"
+"2766";"Cephalopods";"1570 Cephlp Fresh";1570;NA;NA
+"2766";"Cephalopods";"1571 Cphlp Frozen";1571;NA;NA
+"2766";"Cephalopods";"1572 Cphlp Cured";1572;NA;NA
+"2766";"Cephalopods";"1573 Cphlp Canned";1573;NA;NA
+"2766";"Cephalopods";"1574 Cphlp Pr nes";1574;NA;NA
+"2766";"Cephalopods";"1575 Cphlp Meals";1575;NA;NA
+"2520";"Cereals, Other";"68 Popcorn";68;0;NA
+"2520";"Cereals, Other";"89 Buckwheat";89;0;NA
+"2520";"Cereals, Other";"90 Flour, buckwheat";90;89;"2520"
+"2520";"Cereals, Other";"92 Quinoa";92;0;NA
+"2520";"Cereals, Other";"94 Fonio";94;0;NA
+"2520";"Cereals, Other";"95 Flour, fonio";95;94;"2520"
+"2520";"Cereals, Other";"97 Triticale";97;0;NA
+"2520";"Cereals, Other";"98 Flour, triticale";98;97;"2520"
+"2520";"Cereals, Other";"101 Canary seed";101;0;NA
+"2520";"Cereals, Other";"103 Grain, mixed";103;0;NA
+"2520";"Cereals, Other";"104 Flour, mixed grain";104;103;"2520"
+"2520";"Cereals, Other";"108 Cereals, nes";108;0;NA
+"2520";"Cereals, Other";"111 Flour, cereals";111;108;"2520"
+"2520";"Cereals, Other";"113 Cereal preparations, nes";113;108;"2520"
+"2520";"Cereals, Other";"91 Bran, buckwheat";91;89;"2520"
+"2520";"Cereals, Other";"96 Bran, fonio";96;94;"2520"
+"2520";"Cereals, Other";"99 Bran, triticale";99;97;"2520"
+"2520";"Cereals, Other";"105 Bran, mixed grains";105;103;"2520"
+"2520";"Cereals, Other";"112 Bran, cereals nes";112;108;"2520"
+"2614";"Citrus, Other";"512 Fruit, citrus nes";512;0;NA
+"2614";"Citrus, Other";"513 Juice, citrus, single strength";513;512;"2614"
+"2614";"Citrus, Other";"514 Juice, citrus, concentrated";514;512;"2614"
+"2642";"Cloves";"698 Cloves";698;0;NA
+"2633";"Cocoa Beans and products";"661 Cocoa, beans";661;0;NA
+"2633";"Cocoa Beans and products";"662 Cocoa, paste";662;661;"2633"
+"2633";"Cocoa Beans and products";"665 Cocoa, powder and cake";665;661;"2633"
+"2633";"Cocoa Beans and products";"666 Chocolate products nes";666;661;"2633"
+"2578";"Coconut Oil";"252 Oil, coconut (copra)";252;249;"2560"
+"2560";"Coconuts - Incl Copra";"249 Coconuts";249;0;NA
+"2560";"Coconuts - Incl Copra";"250 Coconuts, desiccated";250;249;"2560"
+"2560";"Coconuts - Incl Copra";"251 Copra";251;249;"2560"
+"2630";"Coffee and products";"656 Coffee, green";656;0;NA
+"2630";"Coffee and products";"657 Coffee, roasted";657;656;"2630"
+"2630";"Coffee and products";"659 Coffee, extracts";659;656;"2630"
+"2559";"Cottonseed";"329 Cottonseed";329;328;NA
+"2575";"Cottonseed Oil";"331 Oil, cottonseed";331;328;NA
+"2743";"Cream";"885 Cream fresh";885;882;"2848"
+"2765";"Crustaceans";"1553 Crstaceans F";1553;NA;NA
+"2765";"Crustaceans";"1554 Crstc Frozen";1554;NA;NA
+"2765";"Crustaceans";"1555 Crstc Cured";1555;NA;NA
+"2765";"Crustaceans";"1556 Crstc Canned";1556;NA;NA
+"2765";"Crustaceans";"1557 Crstc Pr nes";1557;NA;NA
+"2765";"Crustaceans";"1558 Crstc Meals";1558;NA;NA
+"2619";"Dates";"577 Dates";577;0;NA
+"2762";"Demersal Fish";"1514 Dmrsl Fresh";1514;NA;NA
+"2762";"Demersal Fish";"1515 Dmrsl Fz Whl";1515;NA;NA
+"2762";"Demersal Fish";"1516 Dmrsl Fillet";1516;NA;NA
+"2762";"Demersal Fish";"1517 Dmrsl Fz Flt";1517;NA;NA
+"2762";"Demersal Fish";"1518 Dmrsl Cured";1518;NA;NA
+"2762";"Demersal Fish";"1519 Dmrsl Canned";1519;NA;NA
+"2762";"Demersal Fish";"1520 Dmrsl Pr nes";1520;NA;NA
+"2762";"Demersal Fish";"1521 Dmrsl Meals";1521;NA;NA
+"2744";"Eggs";"1062 Eggs, hen, in shell";1062;0;NA
+"2744";"Eggs";"1063 Eggs, liquid";1063;1067;NA
+"2744";"Eggs";"1064 Eggs, dried";1064;1067;NA
+"2744";"Eggs";"1091 Eggs, other bird, in shell";1091;0;NA
+"2744";"Eggs";"916 Egg albumine";916;1067;NA
+"2737";"Fats, Animals, Raw";"869 Fat, cattle";869;0;NA
+"2737";"Fats, Animals, Raw";"871 Fat, cattle butcher";871;870;"2731"
+"2737";"Fats, Animals, Raw";"949 Fat, buffaloes";949;0;NA
+"2737";"Fats, Animals, Raw";"979 Fat, sheep";979;0;NA
+"2737";"Fats, Animals, Raw";"994 Grease incl. lanolin wool";994;NA;NA
+"2737";"Fats, Animals, Raw";"1019 Fat, goats";1019;0;NA
+"2737";"Fats, Animals, Raw";"1037 Fat, pigs";1037;0;NA
+"2737";"Fats, Animals, Raw";"1040 Fat, pig butcher";1040;1038;"2733"
+"2737";"Fats, Animals, Raw";"1043 Lard";1043;1038;"2733"
+"2737";"Fats, Animals, Raw";"1065 Fat, poultry";1065;0;NA
+"2737";"Fats, Animals, Raw";"1066 Fat, poultry, rendered";1066;1065;"2737"
+"2737";"Fats, Animals, Raw";"1129 Fat, camels";1129;0;NA
+"2737";"Fats, Animals, Raw";"1160 Fat, other camelids";1160;0;NA
+"2737";"Fats, Animals, Raw";"1168 Oils, fats of animal nes";1168;NA;NA
+"2737";"Fats, Animals, Raw";"1221 Lard stearine oil";1221;NA;NA
+"2737";"Fats, Animals, Raw";"1222 Degras";1222;NA;NA
+"2737";"Fats, Animals, Raw";"1225 Tallow";1225;NA;NA
+"2737";"Fats, Animals, Raw";"1243 Fat, nes, prepared";1243;NA;NA
+"2781";"Fish, Body Oil";"1509 Frwt Bdy Oil";1509;NA;NA
+"2781";"Fish, Body Oil";"1522 Dmrs Bdy Oil";1522;NA;NA
+"2781";"Fish, Body Oil";"1535 Pelg Bdy Oil";1535;NA;NA
+"2781";"Fish, Body Oil";"1548 Marn Bdy Oil";1548;NA;NA
+"2781";"Fish, Body Oil";"1582 Aq M Oils";1582;NA;NA
+"2782";"Fish, Liver Oil";"1510 Frwt Lvr Oil";1510;NA;NA
+"2782";"Fish, Liver Oil";"1523 Demersal Liver Oils";1523;NA;NA
+"2782";"Fish, Liver Oil";"1536 Pelg Lvr Oil";1536;NA;NA
+"2782";"Fish, Liver Oil";"1549 Marine nes Liver Oils";1549;NA;NA
+"2761";"Freshwater Fish";"1501 Frwtr Diad F";1501;NA;NA
+"2761";"Freshwater Fish";"1502 Frwtr Fz Whl";1502;NA;NA
+"2761";"Freshwater Fish";"1503 Frwtr Fillet";1503;NA;NA
+"2761";"Freshwater Fish";"1504 Frwtr Fz Flt";1504;NA;NA
+"2761";"Freshwater Fish";"1505 Frwtr Cured";1505;NA;NA
+"2761";"Freshwater Fish";"1506 Frwtr Canned";1506;NA;NA
+"2761";"Freshwater Fish";"1507 Frwtr Pr nes";1507;NA;NA
+"2761";"Freshwater Fish";"1508 Frwtr Meals";1508;NA;NA
+"2625";"Fruits, Other";"521 Pears";521;0;NA
+"2625";"Fruits, Other";"523 Quinces";523;0;NA
+"2625";"Fruits, Other";"526 Apricots";526;0;NA
+"2625";"Fruits, Other";"527 Apricots, dry";527;526;"2625"
+"2625";"Fruits, Other";"530 Cherries, sour";530;0;NA
+"2625";"Fruits, Other";"531 Cherries";531;0;NA
+"2625";"Fruits, Other";"534 Peaches and nectarines";534;0;NA
+"2625";"Fruits, Other";"536 Plums and sloes";536;0;NA
+"2625";"Fruits, Other";"537 Plums dried (prunes)";537;536;"2625"
+"2625";"Fruits, Other";"538 Juice, plum, single strength";538;536;"2625"
+"2625";"Fruits, Other";"539 Juice, plum, concentrated";539;536;"2625"
+"2625";"Fruits, Other";"541 Fruit, stone nes";541;0;NA
+"2625";"Fruits, Other";"542 Fruit, pome nes";542;0;NA
+"2625";"Fruits, Other";"544 Strawberries";544;0;NA
+"2625";"Fruits, Other";"547 Raspberries";547;0;NA
+"2625";"Fruits, Other";"549 Gooseberries";549;0;NA
+"2625";"Fruits, Other";"550 Currants";550;0;NA
+"2625";"Fruits, Other";"552 Blueberries";552;0;NA
+"2625";"Fruits, Other";"554 Cranberries";554;0;NA
+"2625";"Fruits, Other";"558 Berries nes";558;0;NA
+"2625";"Fruits, Other";"567 Watermelons";567;0;NA
+"2625";"Fruits, Other";"568 Melons, other (inc.cantaloupes)";568;0;NA
+"2625";"Fruits, Other";"569 Figs";569;0;NA
+"2625";"Fruits, Other";"570 Figs dried";570;569;"2625"
+"2625";"Fruits, Other";"571 Mangoes, mangosteens, guavas";571;0;NA
+"2625";"Fruits, Other";"572 Avocados";572;0;NA
+"2625";"Fruits, Other";"583 Juice, mango";583;571;"2625"
+"2625";"Fruits, Other";"587 Persimmons";587;0;NA
+"2625";"Fruits, Other";"591 Cashewapple";591;0;NA
+"2625";"Fruits, Other";"592 Kiwi fruit";592;0;NA
+"2625";"Fruits, Other";"600 Papayas";600;0;NA
+"2625";"Fruits, Other";"603 Fruit, tropical fresh nes";603;0;NA
+"2625";"Fruits, Other";"604 Fruit, tropical dried nes";604;603;"2625"
+"2625";"Fruits, Other";"619 Fruit, fresh nes";619;0;NA
+"2625";"Fruits, Other";"620 Fruit, dried nes";620;619;"2625"
+"2625";"Fruits, Other";"622 Juice, fruit nes";622;619;"2625"
+"2625";"Fruits, Other";"623 Fruit, prepared nes";623;619;"2625"
+"2625";"Fruits, Other";"624 Flour, fruit";624;619;"2625"
+"2625";"Fruits, Other";"625 Fruits, nuts, peel, sugar preserved";625;619;"2625"
+"2625";"Fruits, Other";"626 Fruit, cooked, homogenized preparations";626;619;"2625"
+"2613";"Grapefruit and products";"507 Grapefruit (inc. pomelos)";507;0;NA
+"2613";"Grapefruit and products";"509 Juice, grapefruit";509;507;"2613"
+"2613";"Grapefruit and products";"510 Juice, grapefruit, concentrated";510;507;"2613"
+"2620";"Grapes and products (excl wine)";"560 Grapes";560;234;"2551"
+"2620";"Grapes and products (excl wine)";"561 Raisins";561;234;"2551"
+"2620";"Grapes and products (excl wine)";"562 Juice, grape";562;234;"2551"
+"2620";"Grapes and products (excl wine)";"563 Grapes, must";563;234;"2551"
+"2572";"Groundnut Oil";"244 Oil, groundnut";244;242;"2556"
+"2556";"Groundnuts (Shelled Eq)";"242 Groundnuts, with shell";242;0;NA
+"2556";"Groundnuts (Shelled Eq)";"243 Groundnuts, shelled";243;242;"2556"
+"2556";"Groundnuts (Shelled Eq)";"246 Groundnuts, prepared";246;242;"2556"
+"2556";"Groundnuts (Shelled Eq)";"247 Peanut butter";247;242;"2556"
+"2745";"Honey";"1182 Honey, natural";1182;0;NA
+"2680";"Infant food";"109 Infant food";109;108;"2520"
+"2612";"Lemons, Limes and products";"497 Lemons and limes";497;0;NA
+"2612";"Lemons, Limes and products";"498 Juice, lemon, single strength";498;497;"2612"
+"2612";"Lemons, Limes and products";"499 Juice, lemon, concentrated";499;497;"2612"
+"2514";"Maize and products";"56 Maize";56;0;NA
+"2514";"Maize and products";"58 Flour, maize";58;56;"2514"
+"2514";"Maize and products";"64 Starch, maize";64;56;"2514"
+"2514";"Maize and products";"846 Feed and meal, gluten";846;108;"2520"
+"2514";"Maize and products";"57 Germ, maize";57;56;"2514"
+"2514";"Maize and products";"59 Bran, maize";59;56;"2514"
+"2514";"Maize and products";"63 Gluten, maize";63;56;"2514"
+"2582";"Maize Germ Oil";"60 Oil, maize";60;56;"2514"
+"2764";"Marine Fish, Other";"1540 Marine nes F";1540;NA;NA
+"2764";"Marine Fish, Other";"1541 Marin Fz Whl";1541;NA;NA
+"2764";"Marine Fish, Other";"1542 Marin Fillet";1542;NA;NA
+"2764";"Marine Fish, Other";"1543 Marin Fz Flt";1543;NA;NA
+"2764";"Marine Fish, Other";"1544 Marin Cured";1544;NA;NA
+"2764";"Marine Fish, Other";"1545 Marin Canned";1545;NA;NA
+"2764";"Marine Fish, Other";"1546 Marin Pr nes";1546;NA;NA
+"2764";"Marine Fish, Other";"1547 Marin Meals";1547;NA;NA
+"2768";"Meat, Aquatic Mammals";"1580 Aq M Meat";1580;NA;NA
+"2768";"Meat, Aquatic Mammals";"1583 Aq M Prep Ns";1583;NA;NA
+"2735";"Meat, Other";"1089 Meat, bird nes";1089;0;NA
+"2735";"Meat, Other";"1097 Meat, horse";1097;0;NA
+"2735";"Meat, Other";"1108 Meat, ass";1108;0;NA
+"2735";"Meat, Other";"1111 Meat, mule";1111;0;NA
+"2735";"Meat, Other";"1127 Meat, camel";1127;0;NA
+"2735";"Meat, Other";"1141 Meat, rabbit";1141;0;NA
+"2735";"Meat, Other";"1151 Meat, other rodents";1151;0;NA
+"2735";"Meat, Other";"1158 Meat, other camelids";1158;0;NA
+"2735";"Meat, Other";"1163 Meat, game";1163;0;NA
+"2735";"Meat, Other";"1164 Meat, dried nes";1164;NA;NA
+"2735";"Meat, Other";"1166 Meat, nes";1166;0;NA
+"2735";"Meat, Other";"1172 Meat, nes, preparations";1172;NA;NA
+"2735";"Meat, Other";"1176 Snails, not sea";1176;0;NA
+"2848";"Milk - Excluding Butter";"882 Milk, whole fresh cow";882;0;NA
+"2848";"Milk - Excluding Butter";"888 Milk, skimmed cow";888;882;"2848"
+"2848";"Milk - Excluding Butter";"889 Milk, whole condensed";889;882;"2848"
+"2848";"Milk - Excluding Butter";"890 Whey, condensed";890;882;"2848"
+"2848";"Milk - Excluding Butter";"891 Yoghurt";891;882;"2848"
+"2848";"Milk - Excluding Butter";"892 Yoghurt, concentrated or not";892;882;"2848"
+"2848";"Milk - Excluding Butter";"893 Buttermilk, curdled, acidified milk";893;882;"2848"
+"2848";"Milk - Excluding Butter";"894 Milk, whole evaporated";894;882;"2848"
+"2848";"Milk - Excluding Butter";"895 Milk, skimmed evaporated";895;882;"2848"
+"2848";"Milk - Excluding Butter";"896 Milk, skimmed condensed";896;882;"2848"
+"2848";"Milk - Excluding Butter";"897 Milk, whole dried";897;882;"2848"
+"2848";"Milk - Excluding Butter";"898 Milk, skimmed dried";898;882;"2848"
+"2848";"Milk - Excluding Butter";"899 Milk, dry buttermilk";899;882;"2848"
+"2848";"Milk - Excluding Butter";"900 Whey, dry";900;882;"2848"
+"2848";"Milk - Excluding Butter";"901 Cheese, whole cow milk";901;882;"2848"
+"2848";"Milk - Excluding Butter";"904 Cheese, skimmed cow milk";904;882;"2848"
+"2848";"Milk - Excluding Butter";"905 Whey, cheese";905;882;"2848"
+"2848";"Milk - Excluding Butter";"907 Cheese, processed";907;882;"2848"
+"2848";"Milk - Excluding Butter";"908 Milk, reconstituted";908;882;"2848"
+"2848";"Milk - Excluding Butter";"917 Casein";917;882;"2848"
+"2848";"Milk - Excluding Butter";"951 Milk, whole fresh buffalo";951;0;NA
+"2848";"Milk - Excluding Butter";"954 Milk, skimmed buffalo";954;951;"2848"
+"2848";"Milk - Excluding Butter";"955 Cheese, buffalo milk";955;NA;NA
+"2848";"Milk - Excluding Butter";"982 Milk, whole fresh sheep";982;0;NA
+"2848";"Milk - Excluding Butter";"984 Cheese, sheep milk";984;982;"2848"
+"2848";"Milk - Excluding Butter";"985 Milk, skimmed sheep";985;982;"2848"
+"2848";"Milk - Excluding Butter";"1020 Milk, whole fresh goat";1020;0;NA
+"2848";"Milk - Excluding Butter";"1021 Cheese of goat mlk";1021;1020;"2848"
+"2848";"Milk - Excluding Butter";"1023 Milk, skimmed goat";1023;1020;"2848"
+"2848";"Milk - Excluding Butter";"1130 Milk, whole fresh camel";1130;0;NA
+"2848";"Milk - Excluding Butter";"903 Whey, fresh";903;882;"2848"
+"2848";"Milk - Excluding Butter";"909 Milk, products of natural constituents nes";909;882;"2848"
+"2848";"Milk - Excluding Butter";"910 Ice cream and edible ice";910;882;"2848"
+"2517";"Millet and products";"79 Millet";79;0;NA
+"2517";"Millet and products";"80 Flour, millet";80;79;"2517"
+"2517";"Millet and products";"81 Bran, millet";81;79;"2517"
+"2767";"Molluscs, Other";"1562 Mlluscs Frsh";1562;NA;NA
+"2767";"Molluscs, Other";"1563 Molsc Frozen";1563;NA;NA
+"2767";"Molluscs, Other";"1564 Molsc Cured";1564;NA;NA
+"2767";"Molluscs, Other";"1565 Molsc Canned";1565;NA;NA
+"2767";"Molluscs, Other";"1566 Molsc Meals";1566;NA;NA
+"2732";"Mutton & Goat Meat";"977 Meat, sheep";977;0;NA
+"2732";"Mutton & Goat Meat";"1017 Meat, goat";1017;0;NA
+"2551";"Nuts and products";"216 Brazil nuts, with shell";216;0;NA
+"2551";"Nuts and products";"217 Cashew nuts, with shell";217;0;NA
+"2551";"Nuts and products";"220 Chestnut";220;0;NA
+"2551";"Nuts and products";"221 Almonds, with shell";221;0;NA
+"2551";"Nuts and products";"222 Walnuts, with shell";222;0;NA
+"2551";"Nuts and products";"223 Pistachios";223;0;NA
+"2551";"Nuts and products";"224 Kola nuts";224;0;NA
+"2551";"Nuts and products";"225 Hazelnuts, with shell";225;0;NA
+"2551";"Nuts and products";"226 Areca nuts";226;0;NA
+"2551";"Nuts and products";"229 Brazil nuts, shelled";229;216;"2551"
+"2551";"Nuts and products";"230 Cashew nuts, shelled";230;217;"2551"
+"2551";"Nuts and products";"231 Almonds shelled";231;221;"2551"
+"2551";"Nuts and products";"232 Walnuts, shelled";232;222;"2551"
+"2551";"Nuts and products";"233 Hazelnuts, shelled";233;225;"2551"
+"2551";"Nuts and products";"234 Nuts, nes";234;0;NA
+"2551";"Nuts and products";"235 Nuts, prepared (exc. groundnuts)";235;-1;NA
+"2516";"Oats";"75 Oats";75;0;NA
+"2516";"Oats";"76 Oats rolled";76;75;"2516"
+"2516";"Oats";"77 Bran, oats";77;75;"2516"
+"2736";"Offals, Edible";"868 Offals, edible, cattle";868;0;NA
+"2736";"Offals, Edible";"878 Liver prep.";878;870;"2731"
+"2736";"Offals, Edible";"948 Offals, edible, buffaloes";948;0;NA
+"2736";"Offals, Edible";"978 Offals, sheep,edible";978;0;NA
+"2736";"Offals, Edible";"1018 Offals, edible, goats";1018;0;NA
+"2736";"Offals, Edible";"1036 Offals, pigs, edible";1036;0;NA
+"2736";"Offals, Edible";"1059 Offals, liver chicken";1059;0;NA
+"2736";"Offals, Edible";"1074 Offals, liver geese";1074;0;NA
+"2736";"Offals, Edible";"1075 Offals, liver duck";1075;0;NA
+"2736";"Offals, Edible";"1081 Offals, liver turkeys";1081;0;NA
+"2736";"Offals, Edible";"1098 Offals, horses";1098;0;NA
+"2736";"Offals, Edible";"1128 Offals, edible, camels";1128;0;NA
+"2736";"Offals, Edible";"1159 Offals, other camelids";1159;NA;NA
+"2736";"Offals, Edible";"1167 Offals, nes";1167;0;NA
+"2586";"Oilcrops Oil, Other";"264 Butter of karite nuts";264;263;"2570"
+"2586";"Oilcrops Oil, Other";"266 Oil, castor beans";266;265;"2570"
+"2586";"Oilcrops Oil, Other";"276 Oil, tung nuts";276;275;"2570"
+"2586";"Oilcrops Oil, Other";"278 Oil, jojoba";278;277;"2570"
+"2586";"Oilcrops Oil, Other";"281 Oil, safflower";281;280;"2570"
+"2586";"Oilcrops Oil, Other";"297 Oil, poppy";297;296;"2570"
+"2586";"Oilcrops Oil, Other";"306 Vegetable tallow";306;305;"2570"
+"2586";"Oilcrops Oil, Other";"307 Oil, stillingia";307;NA;NA
+"2586";"Oilcrops Oil, Other";"313 Oil, kapok";313;NA;NA
+"2586";"Oilcrops Oil, Other";"334 Oil, linseed";334;333;"2570"
+"2586";"Oilcrops Oil, Other";"337 Oil, hempseed";337;336;"2570"
+"2586";"Oilcrops Oil, Other";"340 Oil, vegetable origin nes";340;339;"2570"
+"2586";"Oilcrops Oil, Other";"664 Cocoa, butter";664;661;"2633"
+"2586";"Oilcrops Oil, Other";"1241 Margarine, liquid";1241;339;"2570"
+"2586";"Oilcrops Oil, Other";"1242 Margarine, short";1242;NA;NA
+"2586";"Oilcrops Oil, Other";"1273 Castor oil, hydrogenated (opal wax)";1273;NA;NA
+"2586";"Oilcrops Oil, Other";"1274 Oil, boiled etc";1274;339;"2570"
+"2586";"Oilcrops Oil, Other";"1275 Oil, hydrogenated";1275;NA;NA
+"2570";"Oilcrops, Other";"263 Karite nuts (sheanuts)";263;0;NA
+"2570";"Oilcrops, Other";"265 Castor oil seed";265;0;NA
+"2570";"Oilcrops, Other";"275 Tung nuts";275;0;NA
+"2570";"Oilcrops, Other";"277 Jojoba seed";277;0;NA
+"2570";"Oilcrops, Other";"280 Safflower seed";280;0;NA
+"2570";"Oilcrops, Other";"296 Poppy seed";296;0;NA
+"2570";"Oilcrops, Other";"299 Melonseed";299;0;NA
+"2570";"Oilcrops, Other";"305 Tallowtree seed";305;0;NA
+"2570";"Oilcrops, Other";"310 Kapok fruit";310;0;NA
+"2570";"Oilcrops, Other";"311 Kapokseed in shell";311;NA;NA
+"2570";"Oilcrops, Other";"312 Kapokseed shelled";312;NA;NA
+"2570";"Oilcrops, Other";"333 Linseed";333;0;NA
+"2570";"Oilcrops, Other";"336 Hempseed";336;0;NA
+"2570";"Oilcrops, Other";"339 Oilseeds nes";339;0;NA
+"2570";"Oilcrops, Other";"343 Flour, oilseeds";343;339;"2570"
+"2580";"Olive Oil";"261 Oil, olive, virgin";261;260;"2563"
+"2580";"Olive Oil";"274 Oil, olive residues";274;260;"2563"
+"2563";"Olives (including preserved)";"260 Olives";260;0;NA
+"2563";"Olives (including preserved)";"262 Olives preserved";262;NA;NA
+"2602";"Onions";"403 Onions, dry";403;0;NA
+"2611";"Oranges, Mandarines";"490 Oranges";490;0;NA
+"2611";"Oranges, Mandarines";"491 Juice, orange, single strength";491;490;"2611"
+"2611";"Oranges, Mandarines";"492 Juice, orange, concentrated";492;490;"2611"
+"2611";"Oranges, Mandarines";"495 Tangerines, mandarins, clementines, satsumas";495;0;NA
+"2611";"Oranges, Mandarines";"496 Juice, tangerine";496;495;"2611"
+"2562";"Palm kernels";"254 Oil, palm fruit";254;0;NA
+"2562";"Palm kernels";"256 Palm kernels";256;254;"2562"
+"2577";"Palm Oil";"257 Oil, palm";257;254;"2562"
+"2577";"Palm Oil";"1276 Fatty acids";1276;NA;NA
+"2577";"Palm Oil";"1277 Fatty substance residues";1277;NA;NA
+"2576";"Palmkernel Oil";"258 Oil, palm kernel";258;NA;NA
+"2547";"Peas";"187 Peas, dry";187;0;NA
+"2763";"Pelagic Fish";"1527 Pelagic Frsh";1527;NA;NA
+"2763";"Pelagic Fish";"1528 Pelgc Fz Whl";1528;NA;NA
+"2763";"Pelagic Fish";"1529 Pelgc Fillet";1529;NA;NA
+"2763";"Pelagic Fish";"1530 Pelgc Fz Flt";1530;NA;NA
+"2763";"Pelagic Fish";"1531 Pelgc Cured";1531;NA;NA
+"2763";"Pelagic Fish";"1532 Pelgc Canned";1532;NA;NA
+"2763";"Pelagic Fish";"1533 Pelgc Pr nes";1533;NA;NA
+"2763";"Pelagic Fish";"1534 Pelgc Meals";1534;NA;NA
+"2640";"Pepper";"687 Pepper (piper spp.)";687;0;NA
+"2733";"Pigmeat";"1035 Meat, pig";1035;0;NA
+"2733";"Pigmeat";"1038 Meat, pork";1038;0;NA
+"2733";"Pigmeat";"1039 Bacon and ham";1039;1038;"2733"
+"2733";"Pigmeat";"1041 Meat, pig sausages";1041;1038;"2733"
+"2733";"Pigmeat";"1042 Meat, pig, preparations";1042;1038;"2733"
+"2641";"Pimento";"689 Chillies and peppers, dry";689;0;NA
+"2618";"Pineapples and products";"574 Pineapples";574;0;NA
+"2618";"Pineapples and products";"575 Pineapples canned";575;574;"2618"
+"2618";"Pineapples and products";"576 Juice, pineapple";576;574;"2618"
+"2618";"Pineapples and products";"580 Juice, pineapple, concentrated";580;574;"2618"
+"2616";"Plantains";"489 Plantains";489;0;NA
+"2531";"Potatoes and products";"116 Potatoes";116;0;NA
+"2531";"Potatoes and products";"117 Flour, potatoes";117;116;"2531"
+"2531";"Potatoes and products";"118 Potatoes, frozen";118;116;"2531"
+"2531";"Potatoes and products";"119 Starch, potatoes";119;116;"2531"
+"2531";"Potatoes and products";"121 Tapioca, potatoes";121;116;"2531"
+"2734";"Poultry Meat";"1058 Meat, chicken";1058;0;NA
+"2734";"Poultry Meat";"1060 Fat, liver prepared (foie gras)";1060;1059;"2736"
+"2734";"Poultry Meat";"1061 Meat, chicken, canned";1061;1059;"2736"
+"2734";"Poultry Meat";"1069 Meat, duck";1069;0;NA
+"2734";"Poultry Meat";"1073 Meat, goose and guinea fowl";1073;0;NA
+"2734";"Poultry Meat";"1080 Meat, turkey";1080;0;NA
+"2549";"Pulses, Other and products";"181 Broad beans, horse beans, dry";181;0;NA
+"2549";"Pulses, Other and products";"191 Chick peas";191;0;NA
+"2549";"Pulses, Other and products";"195 Cow peas, dry";195;0;NA
+"2549";"Pulses, Other and products";"197 Pigeon peas";197;0;NA
+"2549";"Pulses, Other and products";"201 Lentils";201;0;NA
+"2549";"Pulses, Other and products";"203 Bambara beans";203;0;NA
+"2549";"Pulses, Other and products";"205 Vetches";205;0;NA
+"2549";"Pulses, Other and products";"210 Lupins";210;0;NA
+"2549";"Pulses, Other and products";"211 Pulses, nes";211;0;NA
+"2549";"Pulses, Other and products";"212 Flour, pulses";212;-1;NA
+"2549";"Pulses, Other and products";"213 Bran, pulses";213;-1;NA
+"2574";"Rape and Mustard Oil";"271 Oil, rapeseed";271;270;"2558"
+"2574";"Rape and Mustard Oil";"293 Oil, mustard";293;292;"2558"
+"2558";"Rape and Mustardseed";"270 Rapeseed";270;0;NA
+"2558";"Rape and Mustardseed";"292 Mustard seed";292;0;NA
+"2558";"Rape and Mustardseed";"295 Flour, mustard";295;292;"2558"
+"2805";"Rice (Milled Equivalent)";"27 Rice, paddy";27;0;NA
+"2805";"Rice (Milled Equivalent)";"28 Rice, husked";28;27;"2805"
+"2805";"Rice (Milled Equivalent)";"29 Rice, milled/husked";29;27;"2805"
+"2805";"Rice (Milled Equivalent)";"31 Rice, milled";31;27;"2805"
+"2805";"Rice (Milled Equivalent)";"32 Rice, broken";32;27;"2805"
+"2805";"Rice (Milled Equivalent)";"34 Starch, rice";34;27;"2805"
+"2805";"Rice (Milled Equivalent)";"38 Flour, rice";38;27;"2805"
+"2805";"Rice (Milled Equivalent)";"33 Gluten, rice";33;27;"2805"
+"2805";"Rice (Milled Equivalent)";"35 Bran, rice";35;27;"2805"
+"2581";"Ricebran Oil";"36 Oil, rice bran";36;339;"2570"
+"2534";"Roots, Other";"135 Yautia (cocoyam)";135;0;NA
+"2534";"Roots, Other";"136 Taro (cocoyam)";136;0;NA
+"2534";"Roots, Other";"149 Roots and tubers, nes";149;0;NA
+"2534";"Roots, Other";"150 Flour, roots and tubers nes";150;149;"2534"
+"2534";"Roots, Other";"151 Roots and tubers dried";151;149;"2534"
+"2515";"Rye and products";"71 Rye";71;0;NA
+"2515";"Rye and products";"72 Flour, rye";72;71;"2515"
+"2515";"Rye and products";"73 Bran, rye";73;71;"2515"
+"2561";"Sesame seed";"289 Sesame seed";289;0;NA
+"2579";"Sesameseed Oil";"290 Oil, sesame";290;289;"2561"
+"2518";"Sorghum and products";"83 Sorghum";83;0;NA
+"2518";"Sorghum and products";"84 Flour, sorghum";84;83;"2518"
+"2518";"Sorghum and products";"85 Bran, sorghum";85;83;"2518"
+"2571";"Soyabean Oil";"237 Oil, soybean";237;236;"2555"
+"2555";"Soyabeans";"236 Soybeans";236;0;NA
+"2555";"Soyabeans";"239 Soya sauce";239;236;"2555"
+"2555";"Soyabeans";"240 Soya paste";240;236;"2555"
+"2555";"Soyabeans";"241 Soya curd";241;236;"2555"
+"2645";"Spices, Other";"692 Vanilla";692;0;NA
+"2645";"Spices, Other";"693 Cinnamon (canella)";693;0;NA
+"2645";"Spices, Other";"702 Nutmeg, mace and cardamoms";702;0;NA
+"2645";"Spices, Other";"711 Anise, badian, fennel, coriander";711;0;NA
+"2645";"Spices, Other";"720 Ginger";720;0;NA
+"2645";"Spices, Other";"723 Spices, nes";723;0;NA
+"2542";"Sugar (Raw Equivalent)";"158 Sugar, cane, raw, centrifugal";158;157;"2537"
+"2542";"Sugar (Raw Equivalent)";"159 Sugar, beet, raw, centrifugal";159;157;"2537"
+"2542";"Sugar (Raw Equivalent)";"162 Sugar Raw Centrifugal";162;157;"2537"
+"2542";"Sugar (Raw Equivalent)";"164 Sugar refined";164;157;"2537"
+"2542";"Sugar (Raw Equivalent)";"168 Sugar confectionery";168;161;"2543"
+"2542";"Sugar (Raw Equivalent)";"171 Sugar flavoured";171;NA;NA
+"2537";"Sugar beet";"157 Sugar beet";157;0;NA
+"2536";"Sugar cane";"156 Sugar cane";156;0;NA
+"2541";"Sugar non-centrifugal";"163 Sugar non-centrifugal";163;157;"2537"
+"2557";"Sunflower seed";"267 Sunflower seed";267;0;NA
+"2573";"Sunflowerseed Oil";"268 Oil, sunflower";268;267;"2557"
+"2533";"Sweet potatoes";"122 Sweet potatoes";122;0;NA
+"2543";"Sweeteners, Other";"154 Fructose chemically pure";154;161;"2543"
+"2543";"Sweeteners, Other";"155 Maltose chemically pure";155;161;"2543"
+"2543";"Sweeteners, Other";"160 Maple sugar and syrups";160;161;"2543"
+"2543";"Sweeteners, Other";"161 Sugar crops, nes";161;0;NA
+"2543";"Sweeteners, Other";"166 Fructose and syrup, other";166;161;"2543"
+"2543";"Sweeteners, Other";"167 Sugar, nes";167;161;"2543"
+"2543";"Sweeteners, Other";"172 Glucose and dextrose";172;161;"2543"
+"2543";"Sweeteners, Other";"173 Lactose";173;882;"2848"
+"2543";"Sweeteners, Other";"175 Isoglucose";175;161;"2543"
+"2543";"Sweeteners, Other";"633 Beverages, non alcoholic";633;NA;NA
+"2543";"Sweeteners, Other";"165 Molasses";165;157;"2537"
+"2635";"Tea (including mate)";"667 Tea";667;0;NA
+"2635";"Tea (including mate)";"671 Mat??";671;0;NA
+"2635";"Tea (including mate)";"672 Tea, mate extracts";672;671;"2635"
+"2601";"Tomatoes and products";"388 Tomatoes";388;0;NA
+"2601";"Tomatoes and products";"389 Juice, tomato, concentrated";389;NA;NA
+"2601";"Tomatoes and products";"390 Juice, tomato";390;388;"2601"
+"2601";"Tomatoes and products";"391 Tomatoes, paste";391;388;"2601"
+"2601";"Tomatoes and products";"392 Tomatoes, peeled";392;388;"2601"
+"2605";"Vegetables, Other";"358 Cabbages and other brassicas";358;0;NA
+"2605";"Vegetables, Other";"366 Artichokes";366;0;NA
+"2605";"Vegetables, Other";"367 Asparagus";367;0;NA
+"2605";"Vegetables, Other";"372 Lettuce and chicory";372;0;NA
+"2605";"Vegetables, Other";"373 Spinach";373;0;NA
+"2605";"Vegetables, Other";"378 Cassava leaves";378;0;NA
+"2605";"Vegetables, Other";"393 Cauliflowers and broccoli";393;0;NA
+"2605";"Vegetables, Other";"394 Pumpkins, squash and gourds";394;0;NA
+"2605";"Vegetables, Other";"397 Cucumbers and gherkins";397;0;NA
+"2605";"Vegetables, Other";"399 Eggplants (aubergines)";399;0;NA
+"2605";"Vegetables, Other";"401 Chillies and peppers, green";401;0;NA
+"2605";"Vegetables, Other";"402 Onions, shallots, green";402;0;NA
+"2605";"Vegetables, Other";"406 Garlic";406;0;NA
+"2605";"Vegetables, Other";"407 Leeks, other alliaceous vegetables";407;0;NA
+"2605";"Vegetables, Other";"414 Beans, green";414;0;NA
+"2605";"Vegetables, Other";"417 Peas, green";417;0;NA
+"2605";"Vegetables, Other";"420 Vegetables, leguminous nes";420;0;NA
+"2605";"Vegetables, Other";"423 String beans";423;0;NA
+"2605";"Vegetables, Other";"426 Carrots and turnips";426;0;NA
+"2605";"Vegetables, Other";"430 Okra";430;0;NA
+"2605";"Vegetables, Other";"446 Maize, green";446;0;NA
+"2605";"Vegetables, Other";"447 Sweet corn frozen";447;446;"2605"
+"2605";"Vegetables, Other";"448 Sweet corn prep or preserved";448;446;"2605"
+"2605";"Vegetables, Other";"449 Mushrooms and truffles";449;0;NA
+"2605";"Vegetables, Other";"450 Mushrooms, dried";450;449;"2605"
+"2605";"Vegetables, Other";"451 Mushrooms, canned";451;449;"2605"
+"2605";"Vegetables, Other";"459 Chicory roots";459;NA;NA
+"2605";"Vegetables, Other";"461 Carobs";461;NA;NA
+"2605";"Vegetables, Other";"463 Vegetables, fresh nes";463;0;NA
+"2605";"Vegetables, Other";"464 Vegetables, dried nes";464;NA;NA
+"2605";"Vegetables, Other";"465 Vegetables, canned nes";465;NA;NA
+"2605";"Vegetables, Other";"466 Juice, vegetables nes";466;463;"2605"
+"2605";"Vegetables, Other";"469 Vegetables, dehydrated";469;463;"2605"
+"2605";"Vegetables, Other";"471 Vegetables in vinegar";471;463;"2605"
+"2605";"Vegetables, Other";"472 Vegetables, preserved nes";472;463;"2605"
+"2605";"Vegetables, Other";"473 Vegetables, frozen";473;463;"2605"
+"2605";"Vegetables, Other";"474 Vegetables, temporarily preserved";474;463;"2605"
+"2605";"Vegetables, Other";"475 Vegetables, preserved, frozen";475;463;"2605"
+"2605";"Vegetables, Other";"476 Vegetables, homogenized preparations";476;463;"2605"
+"2605";"Vegetables, Other";"567 Watermelons";567;NA;NA
+"2605";"Vegetables, Other";"568 Melons, other (inc.cantaloupes)";568;NA;NA
+"2605";"Vegetables, Other";"658 Coffee, substitutes containing coffee";658;656;"2630"
+"2511";"Wheat and products";"15 Wheat";15;0;NA
+"2511";"Wheat and products";"16 Flour, wheat";16;15;"2511"
+"2511";"Wheat and products";"18 Macaroni";18;15;"2511"
+"2511";"Wheat and products";"20 Bread";20;15;"2511"
+"2511";"Wheat and products";"21 Bulgur";21;15;"2511"
+"2511";"Wheat and products";"22 Pastry";22;15;"2511"
+"2511";"Wheat and products";"23 Starch, wheat";23;15;"2511"
+"2511";"Wheat and products";"41 Cereals, breakfast";41;108;"2520"
+"2511";"Wheat and products";"110 Wafers";110;108;"2520"
+"2511";"Wheat and products";"17 Bran, wheat";17;15;"2511"
+"2511";"Wheat and products";"19 Germ, wheat";19;15;"2511"
+"2511";"Wheat and products";"24 Gluten, wheat";24;15;"2511"
+"2511";"Wheat and products";"114 Mixes and doughs";114;108;"2520"
+"2511";"Wheat and products";"115 Food preparations, flour, malt extract";115;108;"2520"
+"2655";"Wine";"564 Wine";564;NA;NA
+"2655";"Wine";"565 Vermouths and similar";565;234;"2551"
+"2535";"Yams";"137 Yams";137;0;NA

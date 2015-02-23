@@ -98,8 +98,6 @@ urls=c(
   # ROOTS AND TUBERS AND DERIVED PRODUCTS
   # The processed products of roots and tubers are listed together with their parent primary crops.
   "http://www.fao.org/es/faodef/fdef02e.htm",
-  # SUGAR TODO
-  "http://www.fao.org/es/faodef/fdef03e.htm",
   # OIL-BEARING CROPS AND DERIVED PRODUCTS
   #  FAO lists 21 primary oil crops. The code and name of each crop appears in the list that follows, along with its botanical name, or names, and a short description where necessary.
   #  PRODUCTS DERIVED FROM OIL CROPS. Edible processed products from oil crops, other than oil, include flour, flakes or grits, groundnut preparations (butter, salted nuts, candy), preserved olives, desiccated coconut and fermented and non-fermented soya products. 
@@ -107,12 +105,24 @@ urls=c(
 )
 for(u in urls){
   tables=readHTMLTable(u,stringsAsFactors=FALSE,header=TRUE)
+  
   tables=lapply(tables,function(tt){
     names(tt)<-c("FAOSTATCODE","COMMODITY","DEFINITION")
     tt$DerivedCode=as.numeric(tt$FAOSTATCODE[1])
     tt$DerivedCode[1]=0
     tt
   })
+  
+  if(u=="http://www.fao.org/es/faodef/fdef01e.htm"){
+    #List sugars as dependent on sugars instead 
+    # TODO - should be able to capture multiple dependence
+    tables[[16]]<-tables[[16]][!tables[[16]]$FAOSTATCODE %in% c("0166","0155","0172","0175"),]
+  }
+  
+  if(u=="http://www.fao.org/es/faodef/fdef06e.htm"){
+    tables[[22]]<-tables[[22]][tables[[22]]$FAOSTATCODE!="0036",] #Already in cereals
+  }
+  
   tables=do.call(rbind,tables)
   derived=rbind(derived,tables)
 }
@@ -142,17 +152,32 @@ urls=c(
   )
 for(u in urls){
   tables=readHTMLTable(u,stringsAsFactors=FALSE,header=TRUE)
+  
   if(u=="http://www.fao.org/es/faodef/fdef17e.htm") {
     derived<-rbind(derived,parseCase(tables[[4]]))
     derived<-rbind(derived,parseCase(tables[[5]]))
     derived<-rbind(derived,parseCase(tables[[6]]))
+    derived<-derived[derived$COMMODITY!="Indigenous Chicken Meat",] #Same code as biological chicken meat
     tables=tables[1:3]
   }
+  if(u=="http://www.fao.org/es/faodef/fdef08e.htm"){
+    tables[[6]][1,2]="GRAPES Vitis vinifera"
+  }
+
   tables=lapply(tables,parseSubheadings)
+  
   if(u=="http://www.fao.org/es/faodef/fdef05e.htm")
     tables[[1]][16,4]<- -1 #Prepared nuts is not necessarily NUTS NES?
-  ## Extra column for beeswax
-  if(u=="http://www.fao.org/es/faodef/fdef18e.htm")  tables[[9]][,4]<-NULL
+  
+  if(u=="http://www.fao.org/es/faodef/fdef18e.htm")  {
+    ## Extra column for beeswax
+    tables[[9]][,4]<-NULL
+    
+    #Honey already covered under sugar
+    tables[[8]]<-NULL
+  }
+  
+  
   tables=do.call(rbind,tables)
   rownames(tables)=NULL
   #View(tables[,c(1,2,4)])
@@ -167,11 +192,39 @@ tables=do.call(rbind,tables)
 rownames(tables)=NULL
 derived=rbind(derived,tables)
 
+# 3. SUGAR CROPS AND SWEETENERS AND DERIVED PRODUCTS
+tables=readHTMLTable("http://www.fao.org/es/faodef/fdef03e.htm",stringsAsFactors=FALSE,header=TRUE)
+# Processed items with multiple parent commodities
+mult.parent=c("0162","0165","0164")
 
+tables[[5]]=tables[[1]][tables[[1]]$FAOSTATCODE %in% mult.parent,]
+temp=parseCase(tables[[5]])
+temp$DerivedCode<- -99 #Depend on multiple commodities, or processed products
+derived=rbind(derived,temp)
+
+# Ignore beets in sugar cane
+tables[[1]]=tables[[1]][!tables[[1]]$FAOSTATCODE %in% c(mult.parent,"0159","0169","0629"),]
+derived=rbind(derived,parseSubheadings(tables[[1]]))
+
+#Ignore sugar cane in beets
+tables[[2]]=tables[[2]][!tables[[2]]$FAOSTATCODE %in% c(mult.parent,"0158","0163","0630","0170"),]
+derived=rbind(derived,parseSubheadings(tables[[2]]))
+
+tables[[3]] <- tables[[3]][!tables[[3]]$FAOSTATCODE=="0173",] #Lactose already under 18. 
+derived=rbind(derived,parseSubheadings(tables[[3]]))
+
+derived=rbind(derived,parseSubheadings(tables[[4]]))
 
 ## Beverages
 ## All derived, not primary
 ## http://www.fao.org/es/faodef/fdef15e.htm
+
+rownames(derived)=NULL
+View(derived[order(derived$FAOSTATCODE),])
+
+# Check for duplicates
+#derived[duplicated(derived$FAOSTATCODE),]
+stopifnot(length(which(duplicated(derived$FAOSTATCODE)))==0) #TODO-deal with multiple parents
 
 ## Add DerivedCode to fbs.classification
 fbs.classification$DerivedCode<-NA

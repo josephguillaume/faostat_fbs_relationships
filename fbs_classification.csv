@@ -123,11 +123,11 @@
 "2737";"Fats, Animals, Raw";"1066 Fat, poultry, rendered";1066;1065;"2737"
 "2737";"Fats, Animals, Raw";"1129 Fat, camels";1129;0;NA
 "2737";"Fats, Animals, Raw";"1160 Fat, other camelids";1160;0;NA
-"2737";"Fats, Animals, Raw";"1168 Oils, fats of animal nes";1168;NA;NA
-"2737";"Fats, Animals, Raw";"1221 Lard stearine oil";1221;NA;NA
+"2737";"Fats, Animals, Raw";"1168 Oils, fats of animal nes";1168;-1;NA
+"2737";"Fats, Animals, Raw";"1221 Lard stearine oil";1221;-1;NA
 "2737";"Fats, Animals, Raw";"1222 Degras";1222;NA;NA
-"2737";"Fats, Animals, Raw";"1225 Tallow";1225;NA;NA
-"2737";"Fats, Animals, Raw";"1243 Fat, nes, prepared";1243;NA;NA
+"2737";"Fats, Animals, Raw";"1225 Tallow";1225;-1;NA
+"2737";"Fats, Animals, Raw";"1243 Fat, nes, prepared";1243;-1;NA
 "2781";"Fish, Body Oil";"1509 Frwt Bdy Oil";1509;NA;NA
 "2781";"Fish, Body Oil";"1522 Dmrs Bdy Oil";1522;NA;NA
 "2781";"Fish, Body Oil";"1535 Pelg Bdy Oil";1535;NA;NA
@@ -188,10 +188,10 @@
 "2613";"Grapefruit and products";"507 Grapefruit (inc. pomelos)";507;0;NA
 "2613";"Grapefruit and products";"509 Juice, grapefruit";509;507;"2613"
 "2613";"Grapefruit and products";"510 Juice, grapefruit, concentrated";510;507;"2613"
-"2620";"Grapes and products (excl wine)";"560 Grapes";560;234;"2551"
-"2620";"Grapes and products (excl wine)";"561 Raisins";561;234;"2551"
-"2620";"Grapes and products (excl wine)";"562 Juice, grape";562;234;"2551"
-"2620";"Grapes and products (excl wine)";"563 Grapes, must";563;234;"2551"
+"2620";"Grapes and products (excl wine)";"560 Grapes";560;0;NA
+"2620";"Grapes and products (excl wine)";"561 Raisins";561;560;"2620"
+"2620";"Grapes and products (excl wine)";"562 Juice, grape";562;560;"2620"
+"2620";"Grapes and products (excl wine)";"563 Grapes, must";563;560;"2620"
 "2572";"Groundnut Oil";"244 Oil, groundnut";244;242;"2556"
 "2556";"Groundnuts (Shelled Eq)";"242 Groundnuts, with shell";242;0;NA
 "2556";"Groundnuts (Shelled Eq)";"243 Groundnuts, shelled";243;242;"2556"
@@ -229,9 +229,9 @@
 "2735";"Meat, Other";"1151 Meat, other rodents";1151;0;NA
 "2735";"Meat, Other";"1158 Meat, other camelids";1158;0;NA
 "2735";"Meat, Other";"1163 Meat, game";1163;0;NA
-"2735";"Meat, Other";"1164 Meat, dried nes";1164;NA;NA
+"2735";"Meat, Other";"1164 Meat, dried nes";1164;-1;NA
 "2735";"Meat, Other";"1166 Meat, nes";1166;0;NA
-"2735";"Meat, Other";"1172 Meat, nes, preparations";1172;NA;NA
+"2735";"Meat, Other";"1172 Meat, nes, preparations";1172;-1;NA
 "2735";"Meat, Other";"1176 Snails, not sea";1176;0;NA
 "2848";"Milk - Excluding Butter";"882 Milk, whole fresh cow";882;0;NA
 "2848";"Milk - Excluding Butter";"888 Milk, skimmed cow";888;882;"2848"
@@ -415,7 +415,7 @@
 "2805";"Rice (Milled Equivalent)";"38 Flour, rice";38;27;"2805"
 "2805";"Rice (Milled Equivalent)";"33 Gluten, rice";33;27;"2805"
 "2805";"Rice (Milled Equivalent)";"35 Bran, rice";35;27;"2805"
-"2581";"Ricebran Oil";"36 Oil, rice bran";36;339;"2570"
+"2581";"Ricebran Oil";"36 Oil, rice bran";36;27;"2805"
 "2534";"Roots, Other";"135 Yautia (cocoyam)";135;0;NA
 "2534";"Roots, Other";"136 Taro (cocoyam)";136;0;NA
 "2534";"Roots, Other";"149 Roots and tubers, nes";149;0;NA
@@ -440,15 +440,15 @@
 "2645";"Spices, Other";"711 Anise, badian, fennel, coriander";711;0;NA
 "2645";"Spices, Other";"720 Ginger";720;0;NA
 "2645";"Spices, Other";"723 Spices, nes";723;0;NA
-"2542";"Sugar (Raw Equivalent)";"158 Sugar, cane, raw, centrifugal";158;157;"2537"
+"2542";"Sugar (Raw Equivalent)";"158 Sugar, cane, raw, centrifugal";158;156;"2536"
 "2542";"Sugar (Raw Equivalent)";"159 Sugar, beet, raw, centrifugal";159;157;"2537"
-"2542";"Sugar (Raw Equivalent)";"162 Sugar Raw Centrifugal";162;157;"2537"
-"2542";"Sugar (Raw Equivalent)";"164 Sugar refined";164;157;"2537"
+"2542";"Sugar (Raw Equivalent)";"162 Sugar Raw Centrifugal";162;-99;NA
+"2542";"Sugar (Raw Equivalent)";"164 Sugar refined";164;-99;NA
 "2542";"Sugar (Raw Equivalent)";"168 Sugar confectionery";168;161;"2543"
 "2542";"Sugar (Raw Equivalent)";"171 Sugar flavoured";171;NA;NA
 "2537";"Sugar beet";"157 Sugar beet";157;0;NA
 "2536";"Sugar cane";"156 Sugar cane";156;0;NA
-"2541";"Sugar non-centrifugal";"163 Sugar non-centrifugal";163;157;"2537"
+"2541";"Sugar non-centrifugal";"163 Sugar non-centrifugal";163;156;"2536"
 "2557";"Sunflower seed";"267 Sunflower seed";267;0;NA
 "2573";"Sunflowerseed Oil";"268 Oil, sunflower";268;267;"2557"
 "2533";"Sweet potatoes";"122 Sweet potatoes";122;0;NA
@@ -462,7 +462,7 @@
 "2543";"Sweeteners, Other";"173 Lactose";173;882;"2848"
 "2543";"Sweeteners, Other";"175 Isoglucose";175;161;"2543"
 "2543";"Sweeteners, Other";"633 Beverages, non alcoholic";633;NA;NA
-"2543";"Sweeteners, Other";"165 Molasses";165;157;"2537"
+"2543";"Sweeteners, Other";"165 Molasses";165;-99;NA
 "2635";"Tea (including mate)";"667 Tea";667;0;NA
 "2635";"Tea (including mate)";"671 Mat??";671;0;NA
 "2635";"Tea (including mate)";"672 Tea, mate extracts";672;671;"2635"
@@ -528,5 +528,5 @@
 "2511";"Wheat and products";"114 Mixes and doughs";114;108;"2520"
 "2511";"Wheat and products";"115 Food preparations, flour, malt extract";115;108;"2520"
 "2655";"Wine";"564 Wine";564;NA;NA
-"2655";"Wine";"565 Vermouths and similar";565;234;"2551"
+"2655";"Wine";"565 Vermouths and similar";565;560;"2620"
 "2535";"Yams";"137 Yams";137;0;NA

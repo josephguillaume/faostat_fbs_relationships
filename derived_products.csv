@@ -207,10 +207,6 @@ flaked, pearled, sliced or kibbled.";108
 do not contain, or contain less than 50%, cocoa powder. Also, food
 preparations of milk that either do not contain, or contain less than
 10%, cocoa powder.";108
-"0155";"Maltose, Chemically Pure";"See Chapter 3.";108
-"0166";"Other Fructose and Syrup";"See Chapter 3.";108
-"0172";"Glucose and Dextrose";"See Chapter 3.";108
-"0175";"Isoglucose";"See Chapter 3.";108
 "0635";"Straw and Husks";"See Chapter 11.";108
 "0846";"Gluten Feed and Meal";"See Chapter 11.";108
 "0116";"POTATOES
@@ -285,86 +281,6 @@ classified individually by FAO.";0
 "0150";"Flour of Roots and Tubers nes";"Flour and meal produced from roots and tubers o/t potatoes and
 cassava.";149
 "0151";"Roots and Tubers, Dried nes";"Other tubers, roots or rizhomes, dried, o/t potatoes and cassava.";149
-"0156";"SUGAR CANE
-Saccharum officinarum";"In some producing countries, marginal quantities of sugar cane are
-consumed, either directly as food or in the form of juice.";0
-"0158";"Cane Sugar";"A non-refined, crystallized material derived from the juices of
-sugar-cane stalk and consisting either wholly or essentially of
-sucrose.";156
-"0159";"Beet Sugar";"A non-refined, crystallized material derived from the juices extracted
-from the root of the sugar beet and consisting either wholly or
-essentially of sucrose.";156
-"0162";"Sugar, Raw Centrifugal";"The sum of codes 0158 and 0159. Processed further to obtain refined
-sugar.";156
-"0164";"Sugar, Refined";"Production covers domestic production, plus or minus imports and/or
-exports of raw centrifugal sugar in terms of refined sugar.";156
-"0163";"Sugar, Non-Centrifugal";"Generally derived from sugar cane through traditional methods without
-centrifugation.";156
-"0165";"Molasses";"A by-product of the extraction or refining of beet or cane sugar or of
-the production of fructose from maize. Used for feed, food, industrial
-alcohol, alcoholic beverages and ethanol.";156
-"0169";"Beet Pulp";"See Chapter 11.";156
-"0170";"Bagasse";"See Chapter 11.";156
-"0629";"Beet Tops";"See Chapter 11.";156
-"0630";"Cane Tops";"See Chapter 11.";156
-"0157";"SUGAR BEET
-Beta vulgaris var. altissima";"In some producing countries, marginal quantities are consumed, either
-directly as food or in the preparation of jams.";0
-"0158";"Cane Sugar";"A non-refined, crystallized material derived from the juices of
-sugar-cane stalk and consisting either wholly or essentially of
-sucrose.";157
-"0159";"Beet Sugar";"A non-refined, crystallized material derived from the juices extracted
-from the root of the sugar beet and consisting either wholly or
-essentially of sucrose.";157
-"0162";"Sugar, Raw Centrifugal";"The sum of codes 0158 and 0159.
-Processed further to obtain refined sugar.";157
-"0164";"Sugar, Refined";"Production covers domestic production, plus or minus imports and/or
-exports of raw centrifugal sugar in terms of refined sugar.";157
-"0163";"Sugar, Non-Centrifugal";"Generally derived from sugar cane through traditional methods without
-centrifugation.";157
-"0165";"Molasses";"A by-product of the extraction or refining of beet or cane sugar or of
-the production of fructose from maize. Used for feed, food, industrial
-alcohol, alcoholic beverages and ethanol.";157
-"0169";"Beet Pulp";"See Chapter 11.";157
-"0170";"Bagasse";"See Chapter 11.";157
-"0629";"Beet Tops";"See Chapter 11.";157
-"0630";"Cane Tops";"See Chapter 11.";157
-"0161";"SUGAR CROPS NES
-Including inter alia:
-sugar maple (Acer saccharum);
-sweet sorghum (Sorghum saccharatum);
-sugar palm (Arenga saccharifera)";"Includes minor sugar crops of local importance. In the case of saps,
-production is to be expressed in liquid equivalent.";0
-"0160";"Maple Sugar and Syrups";"Maple syrup is produced by atmospheric boiling of maple sap in an
-open-pan evaporator. Continuing the evaporation process until the
-syrup crystalizes yields maple sugar.";161
-"0167";"Sugar and Syrups nes";"Includes invert sugar, caramel, golden syrup, artificial honey,
-maltose other than chemically pure, sorghum and palm sugars. See also
-the general note in the introduction.";161
-"0155";"Maltose, Chemically Pure";"Produced industrially from starch by hydrolysis with malt diastase.
-Used in the brewing industry.";161
-"0172";"Glucose and Dextrose";"Glucose is a monosaccharide produced by hydrolysing starch with acids
-and/or enzymes.  Dextrose is chemically pure glucose. Used in the food
-industry, in brewing, in tobacco fermentation and in pharmaceutical
-products.";161
-"0175";"Isoglucose";"Also known as HFCS (high-fructose corn syrup), HFSS (high-fructose
-starch syrup), HFGS (high-fructose glucose syrup). Isoglucose is a new
-type of starch syrup where glucose has been isomerized to fructose by
-using one or more isomerizing enzymes. Most important of the
-sweeteners manufactured from maize starch. Widely used in the
-production of food and soft drinks.";161
-"0154";"Fructose, Chemically Pure";"Or levulose, monosaccharide, present with glucose in sweet fruits and
-honey.";161
-"0166";"Other Fructose and Syrup";"Monosaccharide found in fruits and honey, commercially produced from
-glucose, sucrose or by hydrolysis of inulin (polysaccharide found
-mainly in the tubers of the dahlia and the Jerusalem artichoke).
-Especially suitable for use by diabetics.";161
-"0168";"Sugar Confectionery";"Sugar confectionery, including chewing gum, that does not contain
-cocoa. Includes white chocolate.";161
-"0173";"Lactose";"Also known as milk sugar. Produced commercially from whey.";161
-"1182";"HONEY";"Honey produced by bees (Apis mellifera) or by other insects.";0
-"0174";"Artificial Sweeteners";"High-intensity or low-caloric sweetening agents that are produced
-chemically.";1182
 "0236";"SOYBEANS
 Glycine soja";"The most important oil crop. Also widely consumed as a bean and in the
 form of various derived products because of its high protein content,
@@ -476,7 +392,6 @@ reported as palm kernels.";254
 "0340";"Oil of Vegetable Origin nes";"See Chapter 11.";339
 "0343";"Flour of Oilseeds";"Flours and meals of oilseeds and oleaginous fruits (excluding
         mustard), non defatted or partially defatted.";339
-"0036";"Oil of Rice Bran";"See Chapter 14.";339
 "1241";"Liquid Margarine";"See Chapter 14.";339
 "1274";"Oils Boiled, Dehydrated, etc";"See Chapter 14.";339
 "0216";"BRAZIL NUTS
@@ -519,7 +434,7 @@ importance, some countries report nuts under this heading that are
 classified individually by FAO.";0
 "0235";"Prepared Nuts";"Mainly roasted, whether or not containing vegetable oils, salt,
 flavours, spices or other additives. Excludes prepared groundnuts,
-except when mixed with other nuts.";234
+except when mixed with other nuts.";-1
 "0358";"CABBAGES
 Chinese, mustard cabbage, pak-choi (Brassica chinensis);
 white, red, savoy cabbage, Brussels sprouts, collards, kale and
@@ -754,11 +669,11 @@ myrtle berry (Myrtus communis) huckleberry,
 dangleberry (Gaylussacia spp.)";"Other berries not separately identified. In some countries, some or
 all of the berries listed previously are reported under this general
 category.";0
-"0560";"GRAPESVitis vinifera";"Includes both table and wine grapes.";234
-"0561";"Raisins";"Dried grapes. Includes sultanas and currants.";234
-"0562";"Juice of Grape";"See 0491. Includes unfermented grape must.";234
-"0563";"Must of Grape";"See Chapter 15.";234
-"0565";"Vermouths, etc.";"See Chapter 11.";234
+"0560";"GRAPES Vitis vinifera";"Includes both table and wine grapes.";0
+"0561";"Raisins";"Dried grapes. Includes sultanas and currants.";560
+"0562";"Juice of Grape";"See 0491. Includes unfermented grape must.";560
+"0563";"Must of Grape";"See Chapter 15.";560
+"0565";"Vermouths, etc.";"See Chapter 11.";560
 "0569";"FIGS
 Ficus carica";"Â";0
 "0570";"Figs, Dried";"See 0527.";569
@@ -1106,6 +1021,105 @@ ostrich, antelope, deer, reindeer, chamois.";0
 "1181";"BEEHIVES
 Apis mellifica; A. dorsata;
 A. florea; A. indica";"A beehive is an artificial habitation for bees.";0
+"1164";"Meat, Dried nes";"Meat, except of bovines and pigs, salted, in brine or smoked.";-1
+"1176";"SNAILS O/T SEA SNAILS";"Fresh, chilled, frozen, dried, salted or in brine.";0
+"1166";"MEAT NES";"Including frog legs, marine mammals, etc.  Some countries includeunder this heading meats that are listed above, but which are notreported separately. Fresh, chilled or frozen.";0
+"1167";"OFFALS NES";"Fresh, chilled or frozen.";0
+"1168";"Animal Oils and Fats nes";"See Chapter 14.";-1
+"1172";"Meat, Prepared nes";"Excludes poultry, swine or bovine meat preparations.";-1
+"1173";"Meat Meal";"See Chapter 11.";-1
+"1175";"Blood Meal";"See Chapter 11.";-1
+"1221";"Lard Stearine and Lard Oil";"See Chapter 14.";-1
+"1225";"Tallow";"See Chapter 14.";-1
+"1232";"Food Preparations nes";"Including turtle eggs and birds' nests.";-1
+"1243";"Fat Preparations nes";"See Chapter 14.";-1
+"0944";"Indigenous Cattle Meat";"";-1
+"0972";"Indigenous Buffalo Meat";"";-1
+"1012";"Indigenous Sheep Meat";"";-1
+"1032";"Indigenous Goat Meat";"";-1
+"1055";"Indigenous Pig Meat";"";-1
+"1070";"Indigenous Duck Meat";"";-1
+"1077";"Indigenous Goose Meat";"";-1
+"1087";"Indigenous Turkey Meat";"";-1
+"1084";"Indigenous Meat, Other Poultry";"";-1
+"1120";"Indigenous Horse Meat";"";-1
+"1122";"Indigenous Ass Meat";"";-1
+"1124";"Indigenous Mule Meat";"";-1
+"1137";"Indigenous Camel Meat";"";-1
+"1144";"Indigenous Rabbit Meat";"";-1
+"1154";"Indigenous Meat, Other Rodents";"";-1
+"1161";"Indigenous Meat, Other Camelids";"";-1
+"0945";"Biological Cattle Meat";"";-1
+"0973";"Biological Buffalo Meat";"";-1
+"1013";"Biological Sheep Meat";"";-1
+"1033";"Biological Goat Meat";"";-1
+"1056";"Biological Pig Meat";"";-1
+"1095";"Biological Chicken Meat";"";-1
+"1071";"Biological Duck Meat";"";-1
+"1078";"Biological Goose Meat";"";-1
+"1088";"Biological Turkey Meat";"";-1
+"1085";"Biological Meat, Other Poultry";"";-1
+"1121";"Biological Horse Meat";"";-1
+"1123";"Biological Ass Meat";"";-1
+"1125";"Biological Mule Meat";"";-1
+"1138";"Biological Camel Meat";"";-1
+"1145";"Biological Rabbit Meat";"";-1
+"1155";"Biological Meat, Other Rodents";"";-1
+"1162";"Biological Meat, Other Camelids";"";-1
+"0867";"MEAT OF CATTLE";"Meat of bovine animals, fresh, chilled or frozen, with bone in. Commontrade names are beef and veal.";0
+"0868";"OFFALS OF CATTLE, EDIBLE";"Fresh, chilled or frozen.";0
+"0869";"FAT OF CATTLE";"See Chapter 14.";0
+"0870";"MEAT OF CATTLE, BONELESS";"Boneless meat of bovine animals, whether fresh, chilled or frozen.";0
+"0871";"Cattle, Butcher Fat";"See Chapter 14.";870
+"0872";"Beef and Veal, Dried, Salted, Smok";"Meat of bovine animals, whether salted, in brine, dried or smoked.Includes edible flours and meals.";870
+"0873";"Meat Extracts";"Extracts obtained by boiling meat under pressure and concentrating theresulting liquid after the fat has been removed. Includes juicesobtained by pressing raw meat. Whenever possible trade data excludefish extracts.";870
+"0874";"Sausages of Beef and Veal";"Preparations of meat or offal, whether chopped, minced or of blood.They may be raw, cooked or smoked and contain other ingredients, andare then enclosed in natural or artificial casings.";870
+"0875";"Beef and Veal Preparations nes";"Meat and offal (o/t liver) that are boiled, steamed, grilled, fried,roasted or otherwise cooked. Includes prepared meals that contain morethan 20% of meat and offal by weight.";870
+"0877";"Homogenized Meat Preparations";"Preparations used in infant or dietetic food.";870
+"0878";"Liver Preparations";"Liver of any animal, excluding fatty livers of code 1060.";870
+"0947";"BUFFALO MEAT";"Fresh, chilled or frozen, with bone in or boneless.";0
+"0948";"OFFALS OF BUFFALO, EDIBLE";"Fresh, chilled or frozen.";0
+"0949";"FAT OF BUFFALO";"See Chapter 14.";0
+"0977";"MEAT OF SHEEP";"Meat of sheep and lamb, whether fresh, chilled or frozen, with bone inor boneless.";0
+"0978";"OFFALS OF SHEEP, EDIBLE";"Fresh, chilled or frozen.";0
+"0979";"FAT OF SHEEP";"See Chapter 14.";0
+"1017";"GOAT MEAT";"Meat of goats and kids, whether fresh, chilled or frozen, with bone inor boneless.";0
+"1018";"OFFALS OF GOATS, EDIBLE";"Fresh, chilled or frozen.";0
+"1019";"FAT OF GOATS";"See Chapter 14.";0
+"1035";"PIG MEAT";"Meat, with the bone in, of domestic or wild pigs (e.g. wild boars),whether fresh, chilled or frozen.";0
+"1036";"OFFALS OF PIGS, EDIBLE";"Fresh, chilled or frozen.";0
+"1037";"FAT OF PIGS";"See Chapter 14.";0
+"1038";"PORK";"Pig meat, excluding butcher fat and bones.";0
+"1039";"Bacon and Ham";"Meat of pigs, whether salted, in brine, dried or smoked.";1038
+"1040";"Pig, Butcher Fat";"See Chapter 14.";1038
+"1041";"Sausages of Pig Meat";"See 0874.";1038
+"1042";"Pig Meat Preparations";"See 0875.";1038
+"1043";"Lard";"See Chapter 14.";1038
+"1058";"CHICKEN MEAT";"Fresh, chilled or frozen. May include all types of poultry meat ifnational statistics do not report separate data.";0
+"1059";"OFFALS AND LIVER OF CHICKENS";"Fresh, chilled or frozen.";0
+"1060";"Fatty Liver Preparations";"Fatty livers of ducks and geese when cooked, prepared or preserved(e.g. patÂ‚).";1059
+"1061";"Meat, Canned (Chicken)";"Includes meat and offals of poultry.";1059
+"1065";"FAT OF POULTRY";"See Chapter 14.";0
+"1066";"Fat of Poultry, Rendered";"See Chapter 14.";1065
+"1069";"DUCK MEAT";"Fresh, chilled or frozen.";0
+"1075";"OFFALS AND LIVER OF DUCKS";"Fresh, chilled or frozen, salted or in brine.";0
+"1073";"GOOSE MEAT";"Fresh, chilled or frozen.";0
+"1074";"OFFALS AND LIVER OF GEESE";"Fresh, chilled or frozen, salted or in brine.";0
+"1080";"TURKEY MEAT";"Fresh, chilled or frozen.";0
+"1081";"OFFALS AND LIVER OF TURKEYS";"";0
+"1089";"MEAT OF PIGEONS AND OTHER BIRDS NES";"Fresh, chilled or frozen.";0
+"1097";"HORSE MEAT";"Fresh, chilled or frozen.";0
+"1098";"OFFALS OF HORSES";"Fresh, chilled or frozen.";0
+"1108";"MEAT OF ASSES";"Fresh, chilled or frozen.";0
+"1111";"MEAT OF MULES";"Fresh, chilled or frozen.";0
+"1127";"MEAT OF CAMELS";"Fresh, chilled or frozen.";0
+"1128";"OFFALS OF CAMELS, EDIBLE";"Fresh, chilled or frozen.";0
+"1129";"FAT OF CAMELS";"See Chapter 14.";0
+"1141";"RABBIT MEAT";"Fresh, chilled or frozen. May include hare meat.";0
+"1151";"MEAT OF OTHER DOMESTIC RODENTS";"Fresh, chilled or frozen.";0
+"1158";"MEAT OF OTHER DOMESTIC CAMELIDS";"Fresh, chilled or frozen.";0
+"1160";"FAT OF OTHER CAMELIDS";"See Chapter 14.";0
+"1163";"GAME MEAT";"Meat and offals of wild animals, whether fresh, chilled or frozen.";0
 "0882";"COW MILK, WHOLE (FRESH)";"Production data refer to raw milk containing all its constituents.
 Trade data normally cover milk from any animal, and refer to milk that
 is not concentrated, pasteurized, sterilized or other-wise preserved,
@@ -1180,110 +1194,9 @@ EGGS";"Weight in shell.";0
 "1092";"EGGS, EXCLUDING HEN EGGS
 (NUMBER)";"";0
 "1130";"CAMEL MILK";"See 0882.";0
-"1182";"HONEY";"See Chapter 3.";0
 "1183";"BEESWAX";"The substance bees use to build the hexagonal cells of the combs of
 beehives. Includes other insect waxes as well, i.e. lac and Chinese
 wax.";0
-"0867";"MEAT OF CATTLE";"Meat of bovine animals, fresh, chilled or frozen, with bone in. Commontrade names are beef and veal.";0
-"0868";"OFFALS OF CATTLE, EDIBLE";"Fresh, chilled or frozen.";0
-"0869";"FAT OF CATTLE";"See Chapter 14.";0
-"0870";"MEAT OF CATTLE, BONELESS";"Boneless meat of bovine animals, whether fresh, chilled or frozen.";0
-"0871";"Cattle, Butcher Fat";"See Chapter 14.";870
-"0872";"Beef and Veal, Dried, Salted, Smok";"Meat of bovine animals, whether salted, in brine, dried or smoked.Includes edible flours and meals.";870
-"0873";"Meat Extracts";"Extracts obtained by boiling meat under pressure and concentrating theresulting liquid after the fat has been removed. Includes juicesobtained by pressing raw meat. Whenever possible trade data excludefish extracts.";870
-"0874";"Sausages of Beef and Veal";"Preparations of meat or offal, whether chopped, minced or of blood.They may be raw, cooked or smoked and contain other ingredients, andare then enclosed in natural or artificial casings.";870
-"0875";"Beef and Veal Preparations nes";"Meat and offal (o/t liver) that are boiled, steamed, grilled, fried,roasted or otherwise cooked. Includes prepared meals that contain morethan 20% of meat and offal by weight.";870
-"0877";"Homogenized Meat Preparations";"Preparations used in infant or dietetic food.";870
-"0878";"Liver Preparations";"Liver of any animal, excluding fatty livers of code 1060.";870
-"0947";"BUFFALO MEAT";"Fresh, chilled or frozen, with bone in or boneless.";0
-"0948";"OFFALS OF BUFFALO, EDIBLE";"Fresh, chilled or frozen.";0
-"0949";"FAT OF BUFFALO";"See Chapter 14.";0
-"0977";"MEAT OF SHEEP";"Meat of sheep and lamb, whether fresh, chilled or frozen, with bone inor boneless.";0
-"0978";"OFFALS OF SHEEP, EDIBLE";"Fresh, chilled or frozen.";0
-"0979";"FAT OF SHEEP";"See Chapter 14.";0
-"1017";"GOAT MEAT";"Meat of goats and kids, whether fresh, chilled or frozen, with bone inor boneless.";0
-"1018";"OFFALS OF GOATS, EDIBLE";"Fresh, chilled or frozen.";0
-"1019";"FAT OF GOATS";"See Chapter 14.";0
-"1035";"PIG MEAT";"Meat, with the bone in, of domestic or wild pigs (e.g. wild boars),whether fresh, chilled or frozen.";0
-"1036";"OFFALS OF PIGS, EDIBLE";"Fresh, chilled or frozen.";0
-"1037";"FAT OF PIGS";"See Chapter 14.";0
-"1038";"PORK";"Pig meat, excluding butcher fat and bones.";0
-"1039";"Bacon and Ham";"Meat of pigs, whether salted, in brine, dried or smoked.";1038
-"1040";"Pig, Butcher Fat";"See Chapter 14.";1038
-"1041";"Sausages of Pig Meat";"See 0874.";1038
-"1042";"Pig Meat Preparations";"See 0875.";1038
-"1043";"Lard";"See Chapter 14.";1038
-"1058";"CHICKEN MEAT";"Fresh, chilled or frozen. May include all types of poultry meat ifnational statistics do not report separate data.";0
-"1059";"OFFALS AND LIVER OF CHICKENS";"Fresh, chilled or frozen.";0
-"1060";"Fatty Liver Preparations";"Fatty livers of ducks and geese when cooked, prepared or preserved(e.g. patÂ‚).";1059
-"1061";"Meat, Canned (Chicken)";"Includes meat and offals of poultry.";1059
-"1065";"FAT OF POULTRY";"See Chapter 14.";0
-"1066";"Fat of Poultry, Rendered";"See Chapter 14.";1065
-"1069";"DUCK MEAT";"Fresh, chilled or frozen.";0
-"1075";"OFFALS AND LIVER OF DUCKS";"Fresh, chilled or frozen, salted or in brine.";0
-"1073";"GOOSE MEAT";"Fresh, chilled or frozen.";0
-"1074";"OFFALS AND LIVER OF GEESE";"Fresh, chilled or frozen, salted or in brine.";0
-"1080";"TURKEY MEAT";"Fresh, chilled or frozen.";0
-"1081";"OFFALS AND LIVER OF TURKEYS";"";0
-"1089";"MEAT OF PIGEONS AND OTHER BIRDS NES";"Fresh, chilled or frozen.";0
-"1097";"HORSE MEAT";"Fresh, chilled or frozen.";0
-"1098";"OFFALS OF HORSES";"Fresh, chilled or frozen.";0
-"1108";"MEAT OF ASSES";"Fresh, chilled or frozen.";0
-"1111";"MEAT OF MULES";"Fresh, chilled or frozen.";0
-"1127";"MEAT OF CAMELS";"Fresh, chilled or frozen.";0
-"1128";"OFFALS OF CAMELS, EDIBLE";"Fresh, chilled or frozen.";0
-"1129";"FAT OF CAMELS";"See Chapter 14.";0
-"1141";"RABBIT MEAT";"Fresh, chilled or frozen. May include hare meat.";0
-"1151";"MEAT OF OTHER DOMESTIC RODENTS";"Fresh, chilled or frozen.";0
-"1158";"MEAT OF OTHER DOMESTIC CAMELIDS";"Fresh, chilled or frozen.";0
-"1160";"FAT OF OTHER CAMELIDS";"See Chapter 14.";0
-"1163";"GAME MEAT";"Meat and offals of wild animals, whether fresh, chilled or frozen.";0
-"1164";"Meat, Dried nes";"Meat, except of bovines and pigs, salted, in brine or smoked.";NA
-"1176";"SNAILS O/T SEA SNAILS";"Fresh, chilled, frozen, dried, salted or in brine.";0
-"1166";"MEAT NES";"Including frog legs, marine mammals, etc.  Some countries includeunder this heading meats that are listed above, but which are notreported separately. Fresh, chilled or frozen.";0
-"1167";"OFFALS NES";"Fresh, chilled or frozen.";0
-"1168";"Animal Oils and Fats nes";"See Chapter 14.";NA
-"1172";"Meat, Prepared nes";"Excludes poultry, swine or bovine meat preparations.";NA
-"1173";"Meat Meal";"See Chapter 11.";NA
-"1175";"Blood Meal";"See Chapter 11.";NA
-"1221";"Lard Stearine and Lard Oil";"See Chapter 14.";NA
-"1225";"Tallow";"See Chapter 14.";NA
-"1232";"Food Preparations nes";"Including turtle eggs and birds' nests.";NA
-"1243";"Fat Preparations nes";"See Chapter 14.";NA
-"0944";"Indigenous Cattle Meat";"";NA
-"0972";"Indigenous Buffalo Meat";"";NA
-"1012";"Indigenous Sheep Meat";"";NA
-"1032";"Indigenous Goat Meat";"";NA
-"1055";"Indigenous Pig Meat";"";NA
-"1095";"Indigenous Chicken Meat";"";NA
-"1070";"Indigenous Duck Meat";"";NA
-"1077";"Indigenous Goose Meat";"";NA
-"1087";"Indigenous Turkey Meat";"";NA
-"1084";"Indigenous Meat, Other Poultry";"";NA
-"1120";"Indigenous Horse Meat";"";NA
-"1122";"Indigenous Ass Meat";"";NA
-"1124";"Indigenous Mule Meat";"";NA
-"1137";"Indigenous Camel Meat";"";NA
-"1144";"Indigenous Rabbit Meat";"";NA
-"1154";"Indigenous Meat, Other Rodents";"";NA
-"1161";"Indigenous Meat, Other Camelids";"";NA
-"0945";"Biological Cattle Meat";"";NA
-"0973";"Biological Buffalo Meat";"";NA
-"1013";"Biological Sheep Meat";"";NA
-"1033";"Biological Goat Meat";"";NA
-"1056";"Biological Pig Meat";"";NA
-"1095";"Biological Chicken Meat";"";NA
-"1071";"Biological Duck Meat";"";NA
-"1078";"Biological Goose Meat";"";NA
-"1088";"Biological Turkey Meat";"";NA
-"1085";"Biological Meat, Other Poultry";"";NA
-"1121";"Biological Horse Meat";"";NA
-"1123";"Biological Ass Meat";"";NA
-"1125";"Biological Mule Meat";"";NA
-"1138";"Biological Camel Meat";"";NA
-"1145";"Biological Rabbit Meat";"";NA
-"1155";"Biological Meat, Other Rodents";"";NA
-"1162";"Biological Meat, Other Camelids";"";NA
 "0176";"BEANS, DRY
 Phaseolus spp.: kidney, haricot bean  (Ph. vulgaris);
 lima, butter bean (Ph. lunatus);
@@ -1334,44 +1247,63 @@ classified individually by FAO.";0
 "0212";"Flour of Pulses";"Produced through milling or grinding of pulses.  This heading also
 includes meal.";-1
 "0213";"Bran of Pulses";"See Chapter 11.";-1
-"0216";"BRAZIL NUTS
-Brazil, Para or cream nut (Bertholletia excelsa)";"Â";0
-"0229";"Brazil Nuts, Shelled";"Around 55% of the weight in shell.";216
-"0217";"CASHEW NUTS
-Anacardium occidentale";"Produced mainly in East Africa, India and Brazil.";0
-"0230";"Cashew Nuts, Shelled";"Around 25% of the weight in shell.";217
-"0220";"CHESTNUTS
-Castanea spp.: C. vesca; C. vulgaris; C. sativa";"Produced mainly in Europe and Asia.";0
-"0221";"ALMONDS
-Prunus amygdalus; P. communis; Amygdalus communis";"Produced mainly in Mediterranean countries, the United States and
-Asia.";0
-"0231";"Almonds, Shelled";"Around 55% of the weight in shell.";221
-"0222";"WALNUTS
-Jugland spp.: J. regia";"Produced in temperate zones of the Northern Hemisphere, particularly
-in the United States.";0
-"0232";"Walnuts, Shelled";"Around 53% of the weight in shell.";222
-"0223";"PISTACHIOS
-Pistacia vera";"Produced mainly in the Near East and the United States.";0
-"0224";"KOLA NUTS
-kola, cola, Sudan cola nut  (Cola nitida; C. vera; C. acuminata)";"Produced mainly in Africa. Kola nuts, containing 2.4 to 2.6% caffeine,
-are commonly chewed by the local population. Much used in Europe and
-America in the production of beverages.";0
-"0225";"HAZELNUTS (FILBERTS)
-Corylus avellana";"Produced mainly in Mediterranean countries and the United States.";0
-"0233";"Hazelnuts, Shelled";"Around 50% of the weight in shell.";225
-"0226";"ARECA NUTS
-areca, betel nut (Areca catechu)";"Produced mainly in the Far East. Areca nuts are used mainly as
-masticatory. These nuts contain alkaloids (arecoline and arecaidine).";0
-"0234";"NUTS NES
-Including inter alia: pecan nut (Carya illinoensis);
-butter or swarri nut  (Caryocar nuciferum);
-pili nut, Java almond, Chinese olives (Canarium spp.);
-paradise or sapucaia nut (Lecythis zabucajo);
-Queensland, macadamia nut (Macadamia ternifolia);
-pignolia nut (Pinus pinea)";"Other nuts that are not identified separately because of their minor
-relevance at the international level. Because of their limited local
-importance, some countries report nuts under this heading that are
-classified individually by FAO.";0
-"0235";"Prepared Nuts";"Mainly roasted, whether or not containing vegetable oils, salt,
-flavours, spices or other additives. Excludes prepared groundnuts,
-except when mixed with other nuts.";-1
+"0162";"Sugar, Raw Centrifugal";"The sum of codes 0158 and 0159. Processed further to obtain refined
+sugar.";-99
+"0164";"Sugar, Refined";"Production covers domestic production, plus or minus imports and/or
+exports of raw centrifugal sugar in terms of refined sugar.";-99
+"0165";"Molasses";"A by-product of the extraction or refining of beet or cane sugar or of
+the production of fructose from maize. Used for feed, food, industrial
+alcohol, alcoholic beverages and ethanol.";-99
+"0156";"SUGAR CANE
+Saccharum officinarum";"In some producing countries, marginal quantities of sugar cane are
+consumed, either directly as food or in the form of juice.";0
+"0158";"Cane Sugar";"A non-refined, crystallized material derived from the juices of
+sugar-cane stalk and consisting either wholly or essentially of
+sucrose.";156
+"0163";"Sugar, Non-Centrifugal";"Generally derived from sugar cane through traditional methods without
+centrifugation.";156
+"0170";"Bagasse";"See Chapter 11.";156
+"0630";"Cane Tops";"See Chapter 11.";156
+"0157";"SUGAR BEET
+Beta vulgaris var. altissima";"In some producing countries, marginal quantities are consumed, either
+directly as food or in the preparation of jams.";0
+"0159";"Beet Sugar";"A non-refined, crystallized material derived from the juices extracted
+from the root of the sugar beet and consisting either wholly or
+essentially of sucrose.";157
+"0169";"Beet Pulp";"See Chapter 11.";157
+"0629";"Beet Tops";"See Chapter 11.";157
+"0161";"SUGAR CROPS NES
+Including inter alia:
+sugar maple (Acer saccharum);
+sweet sorghum (Sorghum saccharatum);
+sugar palm (Arenga saccharifera)";"Includes minor sugar crops of local importance. In the case of saps,
+production is to be expressed in liquid equivalent.";0
+"0160";"Maple Sugar and Syrups";"Maple syrup is produced by atmospheric boiling of maple sap in an
+open-pan evaporator. Continuing the evaporation process until the
+syrup crystalizes yields maple sugar.";161
+"0167";"Sugar and Syrups nes";"Includes invert sugar, caramel, golden syrup, artificial honey,
+maltose other than chemically pure, sorghum and palm sugars. See also
+the general note in the introduction.";161
+"0155";"Maltose, Chemically Pure";"Produced industrially from starch by hydrolysis with malt diastase.
+Used in the brewing industry.";161
+"0172";"Glucose and Dextrose";"Glucose is a monosaccharide produced by hydrolysing starch with acids
+and/or enzymes.  Dextrose is chemically pure glucose. Used in the food
+industry, in brewing, in tobacco fermentation and in pharmaceutical
+products.";161
+"0175";"Isoglucose";"Also known as HFCS (high-fructose corn syrup), HFSS (high-fructose
+starch syrup), HFGS (high-fructose glucose syrup). Isoglucose is a new
+type of starch syrup where glucose has been isomerized to fructose by
+using one or more isomerizing enzymes. Most important of the
+sweeteners manufactured from maize starch. Widely used in the
+production of food and soft drinks.";161
+"0154";"Fructose, Chemically Pure";"Or levulose, monosaccharide, present with glucose in sweet fruits and
+honey.";161
+"0166";"Other Fructose and Syrup";"Monosaccharide found in fruits and honey, commercially produced from
+glucose, sucrose or by hydrolysis of inulin (polysaccharide found
+mainly in the tubers of the dahlia and the Jerusalem artichoke).
+Especially suitable for use by diabetics.";161
+"0168";"Sugar Confectionery";"Sugar confectionery, including chewing gum, that does not contain
+cocoa. Includes white chocolate.";161
+"1182";"HONEY";"Honey produced by bees (Apis mellifera) or by other insects.";0
+"0174";"Artificial Sweeteners";"High-intensity or low-caloric sweetening agents that are produced
+chemically.";1182

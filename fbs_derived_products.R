@@ -291,6 +291,16 @@ View(fbs.processed)
 # How many items have unclear processing
 table(is.na(fbs.processed$FoodInclProcessed))
 
+######################################################################
+## FBS whether or not is child and parent
+fbs.summary <- data.frame(
+  FBSCode=as.numeric(fbs.processed$IncludedInCode),
+  isChild=ifelse(nchar(fbs.processed$DependsOnCode)==0,0,1),
+  isParent=ifelse(nchar(fbs.processed$ProcessedAppearsInCode)==0,0,1)
+)
+
 write.csv2(derived,"derived_products.csv",row.names=FALSE)
 write.csv2(fbs.processed,"fbs_processed.csv",row.names=FALSE)
 write.csv2(fbs.classification,"fbs_classification.csv",row.names=FALSE)
+write.csv2(fbs.summary,"fbs_summary.csv",row.names=FALSE)
+

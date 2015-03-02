@@ -29,8 +29,13 @@ It is worth noting:
 - If DependsOnCode is not empty, then the item is at least partially Processed from other items - there is also a risk of double-counting.
 - If FoodInclProcessed is TRUE, then treating the item as fresh underestimates processing losses - but we don't have any information about proportion that is processed.
 
+"fbs_summary.csv" is a summary of "fbs_processed.csv". It only has the columns:
+* FBSCode, corresponding to IncludedInCode
+* isChild: 0/1 boolean. 1 if it is processed from other items - according to DependsOnCode
+* isParent: 0/1 boolean. 1 if it is used to manufacture other items - according to ProcessedAppearsInCode
 
-This table is automatically built from the two sources, with the intermediate products also provided in csv format.
+
+"fbs_processed.csv" is automatically built from the two sources, with the intermediate products also provided in csv format.
 
 1. Definition and Classification of Commodities - "derived_products.csv"
  * FAOSTATCODE - Commodity code, corresponding to ProductCode in the other tables here
